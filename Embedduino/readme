@@ -1,1 +1,252 @@
+<div align="center">
 
+# 🚀 EMBEDDUINO  
+### ⚡ Next-Gen Arduino-Compatible SMD Development Board
+
+<p align="center">
+  <b>Engineered for performance. Designed for learning. Built for innovation.</b>
+</p>
+
+<br/>
+
+<img src="Embedduino.png" alt="Embedduino 3D View" width="650"/>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MCU-ATmega328P-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/EDA-KiCad-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Power-12V%20%7C%205V%20%7C%203.3V-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Hardware-red?style=for-the-badge"/>
+</p>
+
+</div>
+
+---
+
+## 🧭 Table of Contents
+
+- [📖 Overview](#-overview)
+- [✨ Key Features](#-key-features)
+- [🏗️ System Architecture](#️-system-architecture)
+- [🖼️ Visual Showcase](#️-visual-showcase)
+- [⚙️ Hardware Specifications](#️-hardware-specifications)
+- [🚀 Getting Started](#-getting-started)
+- [🔌 Pin Configuration](#-pin-configuration)
+- [📂 Project Structure](#-project-structure)
+- [🧪 Applications](#-applications)
+- [⚠️ Limitations](#️-limitations)
+- [🔮 Roadmap](#-roadmap)
+- [🤝 Contributing](#-contributing)
+- [📜 License](#-license)
+- [👨‍💻 Author](#-author)
+
+---
+
+## 📖 Overview
+
+**Embedduino** is a **fully custom-designed Arduino-compatible SMD development board**, built around the **ATmega328P-AU** microcontroller.
+
+It is not just a clone — it is a **hardware-engineered platform** integrating:
+- Multi-stage power regulation
+- Peripheral expansion capability
+- Compact PCB layout optimization
+- Real-world embedded design practices
+
+> 🎯 هدف: Bridge the gap between *learning Arduino* and *designing real hardware systems*
+
+---
+
+## ✨ Key Features
+
+### 🔹 Core System
+- ATmega328P-AU (TQFP Package)
+- 16 MHz Crystal Oscillator
+- Arduino UNO Compatible Pinout
+
+### 🔹 Power Management
+- Dual-stage LDO regulation:
+  - **12V → 5V**
+  - **5V → 3.3V**
+- USB Type-C Power Input
+- Barrel Jack (12V) Input
+- Power Filtering & Stability Capacitors
+
+### 🔹 Connectivity
+- UART Interface (TX/RX)
+- Bluetooth Module Support (HC-05 / HC-06)
+- ICSP Programming Header
+
+### 🔹 Onboard Peripherals
+- RGB LED Indicator
+- Status LEDs
+- Buzzer Output
+- Reset & Enable Push Buttons
+
+### 🔹 Expandability
+- Full Digital & Analog Pin Breakout
+- Peripheral Interface Section
+- Gesture Control Ready Design
+
+---
+
+## 🏗️ System Architecture
+
+```text
+        +----------------------+
+        |   12V Barrel Input   |
+        +----------+-----------+
+                   |
+                   v
+        +----------------------+
+        |   12V → 5V LDO       |
+        +----------+-----------+
+                   |
+                   v
+        +----------------------+
+        |   5V → 3.3V LDO      |
+        +----------+-----------+
+                   |
+        +----------+-----------+
+        |                      |
+        v                      v
++--------------+      +------------------+
+| ATmega328P   |      | Peripherals      |
+| (16 MHz)     |      | BT, LEDs, Buzzer |
++--------------+      +------------------+
+````
+
+---
+
+## 🖼️ Visual Showcase
+
+### 🧾 Schematic
+
+<img src="schematic.png" width="700"/>
+
+### 📐 PCB Layout
+
+<img src="pcb_layout.png" width="700"/>
+
+### 🔥 3D Render
+
+<img src="Embedduino.png" width="700"/>
+
+---
+
+## ⚙️ Hardware Specifications
+
+| Parameter       | Value                |
+| --------------- | -------------------- |
+| Microcontroller | ATmega328P-AU        |
+| Clock Frequency | 16 MHz               |
+| Input Voltage   | 5V / 12V             |
+| Logic Levels    | 5V / 3.3V            |
+| Communication   | UART                 |
+| Programming     | ICSP                 |
+| PCB Layers      | 2 Layer              |
+| Form Factor     | Custom Compact Board |
+
+---
+
+## 🚀 Getting Started
+
+### 🔧 1. Burn Bootloader
+
+Use an ICSP programmer to flash the Arduino bootloader.
+
+### 💻 2. Upload Code
+
+* Connect via USB-UART / FTDI
+* Select **Arduino UNO** in Arduino IDE
+* Upload sketches
+
+### 🔌 3. Power the Board
+
+* USB Type-C (5V)
+* Barrel Jack (12V)
+
+---
+
+## 🔌 Pin Configuration
+
+| Category | Pins            |
+| -------- | --------------- |
+| Digital  | D0 – D13        |
+| Analog   | A0 – A5         |
+| UART     | TX / RX         |
+| Power    | 5V / 3.3V / GND |
+
+---
+
+## 🧪 Applications
+
+* 🤖 Robotics Systems
+* 🌐 IoT Devices
+* 📡 Wireless Communication Projects
+* 🎓 Academic Embedded Labs
+* 🎮 Gesture-Control Systems
+
+---
+
+## ⚠️ Limitations
+
+* Linear regulators → thermal inefficiency under load
+* External USB-to-Serial required
+* No onboard protection ICs (future scope)
+
+---
+
+## 🔮 Roadmap
+
+* [ ] Switching Regulator (Buck Converter)
+* [ ] Onboard USB-UART (CH340 / CP2102)
+* [ ] ESP32 Variant
+* [ ] Compact Version (Nano Form Factor)
+* [ ] Hardware Debugging Interface
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions from the community.
+
+```bash
+# Fork the repository
+# Create your feature branch
+git checkout -b feature/AmazingFeature
+
+# Commit changes
+git commit -m "Add AmazingFeature"
+
+# Push to GitHub
+git push origin feature/AmazingFeature
+```
+
+---
+
+## 📜 License
+
+Distributed under the **MIT License**.
+See `LICENSE` for more information.
+
+---
+
+## 👨‍💻 Author
+
+**Mahesh Thilak**
+
+* 🔗 GitHub: [https://github.com/MAATHES-THILAK-K](https://github.com/MAATHES-THILAK-K)
+* 🧠 Embedded Systems | PCB Design |
+
+---
+
+<div align="center">
+
+### ⚡ *"From Circuit to Intelligence — Build the Future."*
+
+</div>
+```  
+
+---
