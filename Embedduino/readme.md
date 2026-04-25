@@ -2,9 +2,7 @@
 
 > ⚡ Compact Arduino-compatible SMD development board for embedded systems & IoT.
 
-<p align="center">
-  <img src="./Embedduino.png" width="600"/>
-</p>
+<img width="1910" height="942" alt="Embedduino" src="https://github.com/user-attachments/assets/b81ebc63-998b-47f6-b295-6120ed59c96a" />
 
 ---
 
