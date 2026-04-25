@@ -1,5 +1,3 @@
----
-
 # 🔥 USB to UART Converter (CP2102)
 
 <p align="center">
@@ -101,7 +99,6 @@ Designed for **firmware flashing, debugging, and real-time data exchange** with 
 ## 👨‍💻 Author
 
 **Mahesh Thilak**
-🔗 [https://github.com/MAATHES-THILAK-K](https://github.com/MAATHES-THILAK-K)
 
 ---
 
