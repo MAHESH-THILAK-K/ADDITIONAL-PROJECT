@@ -25,11 +25,7 @@ Designed for **firmware flashing, debugging, and real-time data exchange** with 
 ---
 
 ## 📸 Preview
-
-<p align="center">
-  <img src="./USB_TO_UART.png" width="700"/>
-</p>
-
+<img width="1910" height="942" alt="USB TO UART" src="https://github.com/user-attachments/assets/c2578321-b83c-4a36-b5ee-94d5368254a6" />
 ---
 
 ## ⚡ Key Features
