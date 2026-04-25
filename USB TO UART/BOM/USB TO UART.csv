@@ -1,0 +1,9 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"J2";"PinHeader_1x05_P2.54mm_Horizontal";1;"Conn_01x05_Pin";;;
+2;"C4,C2,C3,C1";"C_0201_0603Metric";4;"100nf";;;
+3;"R3";"R_0201_0603Metric";1;"10k";;;
+4;"R2,R1";"R_0201_0603Metric";2;"5.1k";;;
+5;"J1";"USB_C_Receptacle_HRO_TYPE-C-31-M-12";1;"USB_C_Receptacle_USB2.0_16P";;;
+6;"R7,R4,R6,R5";"R_0201_0603Metric";4;"1k";;;
+7;"D4,D5";"LED_0201_0603Metric";2;"LED";;;
+8;"U1";"QFN-28-1EP_5x5mm_P0.5mm_EP3.35x3.35mm";1;"CP2102N-Axx-xQFN28";;;
