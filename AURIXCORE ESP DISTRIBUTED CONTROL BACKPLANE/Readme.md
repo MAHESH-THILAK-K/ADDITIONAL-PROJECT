@@ -43,7 +43,7 @@
 
 |                                   PCB Layout                                   |                                                 Board Overview                                                 |
 | :----------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: |
-| <img width="1919" height="1079" alt="Screenshot 2026-05-16 141242" src="https://github.com/user-attachments/assets/2f3195a7-f87c-4e43-828b-278941137386"> | <img <img width="1918" height="952" alt="AURIXCORE ESP DISTRIBUTED CONTROL BACKPLANE s" src="https://github.com/user-attachments/assets/5a78f78c-51ab-4f22-be40-7255a72fa1f2"> |
+| <img width="1919" height="1079" alt="Screenshot 2026-05-16 141242" src="https://github.com/user-attachments/assets/2f3195a7-f87c-4e43-828b-278941137386"> | <img width="1918" height="952" alt="AURIXCORE ESP DISTRIBUTED CONTROL BACKPLANE s" src="https://github.com/user-attachments/assets/5a78f78c-51ab-4f22-be40-7255a72fa1f2"> |
 
 > *Designed in KiCad — High-density ESP communication and expansion architecture*
 
