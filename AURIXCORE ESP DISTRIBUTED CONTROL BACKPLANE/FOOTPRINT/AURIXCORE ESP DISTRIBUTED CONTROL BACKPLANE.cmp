@@ -1,0 +1,131 @@
+Cmp-Mod V01 Created by PcbNew   date = 2026-05-16T14:40:41+0530
+
+BeginCmp
+TimeStamp = 0e9e5989-118a-40f2-9b4d-411d22fb7f88
+Path = /ae7be380-3158-4252-a890-b2cd3e1871d6
+Reference = U1;
+ValeurCmp = WeMos_D1_mini;
+IdModule  = Module:WEMOS_D1_mini_light;
+EndCmp
+
+BeginCmp
+TimeStamp = 16b7ff0e-bd2d-4a7c-9de2-bfd87db009d0
+Path = /0bb27002-6345-445d-8d52-3a1c3d069fd7
+Reference = U3;
+ValeurCmp = WeMos_D1_mini;
+IdModule  = Module:WEMOS_D1_mini_light;
+EndCmp
+
+BeginCmp
+TimeStamp = 280c97ef-c371-4517-9f7b-d0dacd8cf638
+Path = /3ae328a3-992e-4c6f-9e15-05364440d01c
+Reference = J5;
+ValeurCmp = Conn_01x08_Pin R;
+IdModule  = TerminalBlock_RND:TerminalBlock_RND_205-00018_1x08_P5.00mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 3335bf3d-ad5b-4b6c-abdc-6b597f278b4f
+Path = /1dfceb55-365a-46cf-bb59-f374198918b0
+Reference = R1;
+ValeurCmp = R;
+IdModule  = Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = 37275bd1-6874-4cf9-a566-d0eea9b8f91a
+Path = /0b8f5861-d52d-4f71-bcc8-015a9b0fa3ab
+Reference = U4;
+ValeurCmp = WeMos_D1_mini;
+IdModule  = Module:WEMOS_D1_mini_light;
+EndCmp
+
+BeginCmp
+TimeStamp = 64b27cb8-1c88-4050-8d2d-7a9fec314666
+Path = /4769c6b0-e30d-480c-983c-d1fd8129aac2
+Reference = J6;
+ValeurCmp = Conn_01x05_Pin3.3v;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 64fa3e23-592e-467b-a046-01b8afa0002d
+Path = /6c5a63f5-a86b-4384-8532-e3611ed59331
+Reference = U2;
+ValeurCmp = WeMos_D1_mini;
+IdModule  = Module:WEMOS_D1_mini_light;
+EndCmp
+
+BeginCmp
+TimeStamp = 65872031-e78b-4b58-a69d-e93272a419d4
+Path = /f9c49b9e-2d52-443b-ad4f-891adf2d6ce6
+Reference = SW1;
+ValeurCmp = SW_Push;
+IdModule  = Button_Switch_THT:SW_PUSH_6mm_H5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 71b5a891-3016-40cc-8f89-7d23eaae6c75
+Path = /4196d239-9118-4e5b-baa2-5bdb08b10b44
+Reference = J7;
+ValeurCmp = Conn_01x08_Pin R;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 761d4eab-2ee7-4930-99b6-3aa5e57b5a93
+Path = /80eeb766-7a35-4c71-b9bb-98f965b8c949
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED_THT:LED_D5.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = c60116f2-ddcc-4fe8-a2f7-cf449bf70b9b
+Path = /d907825a-89d9-4399-9e77-a2f61b01049e
+Reference = J3;
+ValeurCmp = Conn_01x08_Pin L;
+IdModule  = TerminalBlock_RND:TerminalBlock_RND_205-00018_1x08_P5.00mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = d44be992-865a-49b1-8c80-5153c5bd5461
+Path = /d354976b-79c1-4448-bf76-6a766d3717e3
+Reference = J1;
+ValeurCmp = Conn_01x08_Pin L;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = dddb6d19-e886-4fc7-86db-ac5cb2510bee
+Path = /c586dc70-fe5e-4744-83e2-71b5e84a039d
+Reference = J4;
+ValeurCmp = Conn_01x05_Pin 5v;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = e3f1a5e6-7007-4331-972b-28ae80966148
+Path = /5b39b054-44a9-4c22-9071-89f53a801b6c
+Reference = J2;
+ValeurCmp = Conn_01x05_Pin G;
+IdModule  = Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical;
+EndCmp
+
+BeginCmp
+TimeStamp = 21c9face-6842-4ef0-8a2a-266f4e24d3a1
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = LOGO;
+EndCmp
+
+BeginCmp
+TimeStamp = 385f3462-71d7-44f0-9196-adef95031401
+Path = 
+Reference = REF**;
+ValeurCmp = KiCad-Logo2_30mm_SilkScreen;
+IdModule  = Symbol:KiCad-Logo2_30mm_SilkScreen;
+EndCmp
+
+EndListe
