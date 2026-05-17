@@ -1,0 +1,11 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"U1";"SOT-223-3_TabPin2";1;"AZ1117";;;
+2;"J1,J2";"PinHeader_2x09_P2.54mm_Vertical";2;"Conn_02x09_Odd_Even";;;
+3;"C1,C2";"C_1206_3216Metric_Pad1.33x1.80mm_HandSolder";2;"22uF";;;
+4;"D1";"LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder";1;"LED";;;
+5;"R1";"R_1206_3216Metric_Pad1.30x1.75mm_HandSolder";1;"2k";;;
+6;"C3";"C_1206_3216Metric_Pad1.33x1.80mm_HandSolder";1;"100nF";;;
+7;"Q1";"SOT-363_SC-70-6";1;"MUN5214DW1";;;
+8;"J3,J4";"PinSocket_1x08_P2.54mm_Vertical";2;"Conn_01x08_Female";;;
+9;"J5";"PinHeader_2x06_P2.54mm_Vertical";1;"+/- rail";;;
+10;"J6";"PinHeader_1x03_P2.54mm_Vertical";1;"Conn_01x03";;;
