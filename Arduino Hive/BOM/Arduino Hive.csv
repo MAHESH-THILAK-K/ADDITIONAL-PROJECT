@@ -1,0 +1,17 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"BT1";"PinHeader_1x02_P2.54mm_Vertical";1;"3V";;;
+2;"C2";"C_0805_2012Metric_Pad1.15x1.40mm_HandSolder";1;"10uF";;;
+3;"C3,C4";"C_0805_2012Metric_Pad1.15x1.40mm_HandSolder";2;"22pF";;;
+4;"J1";"PinSocket_1x09_P2.54mm_Vertical";1;"digital pins";;;
+5;"J2";"PinSocket_1x04_P2.54mm_Vertical";1;"I2C";;;
+6;"J3";"PinSocket_2x03_P2.54mm_Vertical";1;"ICSP";;;
+7;"J4";"PinSocket_1x04_P2.54mm_Vertical";1;"serial";;;
+8;"R1";"R_0805_2012Metric_Pad1.15x1.40mm_HandSolder";1;"10Kohm";;;
+9;"R2";"R_0805_2012Metric_Pad1.15x1.40mm_HandSolder";1;"330ohm";;;
+10;"U2";"PLCC-28_SMD-Socket";1;"ATmega328P-PU";;;
+11;"U3";"SOIJ-8_5.3x5.3mm_P1.27mm";1;"DS1337_PDv2";;;
+12;"U4";"SOIC-8_5.275x5.275mm_P1.27mm";1;"24LC1025";;;
+13;"Y1";"Crystal_SMD_HC49-SD";1;"Crystal 32MHz";;;
+14;"Y2";"Crystal_SMD_HC49-SD";1;"Crystal 16Mhz";;;
+15;"U5";"PowerIntegrations_SO-8";1;"24LC1025";;;
+16;"D1";"LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder";1;"LED";;;
