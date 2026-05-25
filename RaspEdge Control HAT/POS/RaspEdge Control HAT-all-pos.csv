@@ -1,0 +1,7 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"LED1","LED","LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder",59.588400,-80.715400,0.000000,top
+"LED2","LED","LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder",59.588400,-84.785200,0.000000,top
+"R1","330","R_0805_2012Metric_Pad1.15x1.40mm_HandSolder",45.643800,-80.187800,180.000000,top
+"R2","10K","R_0805_2012Metric_Pad1.15x1.40mm_HandSolder",49.987200,-79.984600,0.000000,top
+"R3","10k","R_0805_2012Metric_Pad1.15x1.40mm_HandSolder",54.940200,-84.709000,180.000000,top
+"R4","10k","R_0805_2012Metric_Pad1.15x1.40mm_HandSolder",54.317532,-80.670400,180.000000,top
