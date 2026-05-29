@@ -1,0 +1,37 @@
+### Footprint positions - created on 2026-05-29T22:11:44+0530 ###
+### Printed by KiCad version 9.0.8-9.0.8~ubuntu22.04.1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                            Package                                   PosX       PosY       Rot  Side
+C1        100nF                          C_0402_1005Metric                     207.6132   -55.9911  180.0000  bottom
+C2        22pF                           C_0402_1005Metric                     207.0770   -78.4701  -90.0000  bottom
+C3        22pF                           C_0402_1005Metric                     200.3742   -78.2161   90.0000  bottom
+C4        1uF                            C_0402_1005Metric                     198.5962   -60.8171   90.0000  bottom
+C5        100nF                          C_0402_1005Metric                     202.8860   -59.0234   90.0000  bottom
+C6        100nF                          C_0402_1005Metric                     198.9490   -74.6444  -90.0000  bottom
+C7        10uF                           C_0402_1005Metric                     195.9610   -50.0380    0.0000  bottom
+C8        1uF                            C_0402_1005Metric                     197.5802   -60.8171   90.0000  bottom
+C9        100nF                          C_0402_1005Metric                     194.8850   -63.5954  180.0000  bottom
+C10       100nF                          C_0402_1005Metric                     200.4730   -74.6444  -90.0000  bottom
+C11       100nF                          C_0402_1005Metric                     194.0560   -69.9770  -135.0000  bottom
+C12       100nF                          C_0402_1005Metric                     207.6132   -69.1991  -45.0000  bottom
+C13       100nF                          C_0402_1005Metric                     201.3620   -59.0234   90.0000  bottom
+C14       100nF                          C_0402_1005Metric                     194.8850   -62.0714  180.0000  bottom
+C15       100nF                          C_0402_1005Metric                     206.5973   -63.3571   90.0000  bottom
+C16       1uF                            C_0402_1005Metric                     195.6747   -44.5741    0.0000  bottom
+C17       1uF                            C_0402_1005Metric                     195.9610   -51.0540  180.0000  bottom
+F1        500mA                          Fuse_1206_3216Metric                  196.3102   -41.2591  -90.0000  bottom
+J1        USB_C_Receptacle_USB2.0        USB_C_Receptacle_HRO_TYPE-C-31-M-12   200.7870   -32.7819    0.0000  bottom
+R1        1k                             R_0402_1005Metric                     206.3432   -46.4661  -90.0000  bottom
+R2        1k                             R_0402_1005Metric                     193.8020   -81.6610  180.0000  bottom
+R3        5k1                            R_0402_1005Metric                     198.3740   -39.7510  -90.0000  bottom
+R4        5k1                            R_0402_1005Metric                     203.3270   -39.7510  -90.0000  bottom
+R5        27R                            R_0603_1608Metric                     200.9140   -55.2450  -90.0000  bottom
+R6        27R                            R_0603_1608Metric                     199.2630   -55.2450  -90.0000  bottom
+R7        1k                             R_0402_1005Metric                     202.5050   -74.6444   90.0000  bottom
+U1        W25Q128JVS                     SOIC-8_5.23x5.23mm_P1.27mm            210.0263   -50.5741  -90.0000  bottom
+U2        USBLC6-2SC6                    SOT-23-6                              200.8822   -41.2591   90.0000  bottom
+U3        RP2040                         RP2040-QFN-56                         201.3620   -67.0561  180.0000  bottom
+U4        XC6206PxxxMR-Regulator_Linear  SOT-23                                196.4367   -47.3681   90.0000  bottom
+Y1        12MHz                          Crystal_SMD_3225-4Pin_3.2x2.5mm       203.6480   -78.2004    0.0000  bottom
+## End
