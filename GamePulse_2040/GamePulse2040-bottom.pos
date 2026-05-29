@@ -1,0 +1,64 @@
+### Footprint positions - created on 2026-05-29T20:56:39+0530 ###
+### Printed by KiCad version 9.0.8-9.0.8~ubuntu22.04.1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                  Package                                                PosX       PosY       Rot  Side
+C1        10uF                 C_0805_2012Metric                                   41.1480   -59.9440  180.0000  bottom
+C2        30pF                 C_0402_1005Metric                                   77.7240   -69.3420  180.0000  bottom
+C3        30pF                 C_0402_1005Metric                                   74.1680   -71.8820   90.0000  bottom
+C4        10uF                 C_0805_2012Metric                                   54.3560   -57.1500  -90.0000  bottom
+C5        100nF                C_0402_1005Metric                                   72.6440   -48.0060  180.0000  bottom
+C6        1uF                  C_0402_1005Metric                                   67.5640   -60.1980  180.0000  bottom
+C7        100nF                C_0402_1005Metric                                   73.9140   -69.0880  -90.0000  bottom
+C8        100nF                C_0402_1005Metric                                   66.0400   -65.2780  180.0000  bottom
+C9        1uF                  C_0402_1005Metric                                   67.5640   -58.1660  180.0000  bottom
+C10       100nF                C_0402_1005Metric                                   79.5020   -64.7980  -90.0000  bottom
+C11       100nF                C_0402_1005Metric                                   72.6440   -69.3420  -90.0000  bottom
+C12       100nF                C_0402_1005Metric                                   67.5640   -59.1820  180.0000  bottom
+C13       100nF                C_0402_1005Metric                                   71.6280   -53.8480   90.0000  bottom
+C14       100nF                C_0402_1005Metric                                   78.7400   -58.4480   90.0000  bottom
+C15       100nF                C_0402_1005Metric                                   70.6120   -53.8200   90.0000  bottom
+C16       100nF                C_0402_1005Metric                                   67.5640   -61.2140  180.0000  bottom
+C17       1uF                  C_0402_1005Metric                                  102.3620   -75.1840  180.0000  bottom
+C18       1uF                  C_0402_1005Metric                                  105.4100   -73.4060   90.0000  bottom
+C19       10uF                 C_0805_2012Metric                                   48.0060   -68.8340  180.0000  bottom
+C20       220pF                C_0805_2012Metric                                   99.5680   -87.6300    0.0000  bottom
+C21       220pF                C_0805_2012Metric                                  108.7120   -87.6300    0.0000  bottom
+C22       10uF                 C_0805_2012Metric                                  108.2040   -81.0260  180.0000  bottom
+C23       10uF                 C_0805_2012Metric                                   48.0060   -71.1200  180.0000  bottom
+D1        MBR0540              D_SOD-123                                           44.9580   -59.9440  -90.0000  bottom
+D2        Orange               LED_0402_1005Metric                                 50.0380   -53.5940  180.0000  bottom
+FB1       FerriteBead_Small    Ferrite_0805_2012Metric                            105.6640   -86.6140  -90.0000  bottom
+FB2       FerriteBead_Small    Ferrite_0805_2012Metric                            102.6160   -86.6140  -90.0000  bottom
+J1        USB_TypeC_Connector  USB_C_Receptacle_HRO_TYPE-C-31-M-12                 39.6240   -49.7840   90.0000  bottom
+J2        503398-1892          MOLEX_503398-1892                                   43.4340   -85.8520  -90.0000  bottom
+J3        LCD_Display          TE_1-1734839-5_1x15-1MP_P0.5mm_Horizontal           89.3626   -65.7860  -90.0000  bottom
+Power1    Power                MK-12C02-G020_GSW                                   37.5920   -72.1360   90.0000  bottom
+Q1        DMG3415              SOT-23                                              48.2600   -59.9440    0.0000  bottom
+R1        1k                   R_0402_1005Metric                                   80.2640   -47.4980  -90.0000  bottom
+R3        27                   R_0402_1005Metric                                   70.8660   -55.8800    0.0000  bottom
+R4        27                   R_0402_1005Metric                                   70.8660   -57.4040    0.0000  bottom
+R5        1k                   R_0402_1005Metric                                   75.4380   -68.8340  -90.0000  bottom
+R6        10K                  R_0402_1005Metric                                  101.0920   -78.7400  180.0000  bottom
+R7        10K                  Potentiometer_Bourns_TC33X_Vertical                 90.4240   -78.4860   90.0000  bottom
+R8        100                  R_0402_1005Metric                                  104.1400   -75.6920  -90.0000  bottom
+R9        100                  R_0402_1005Metric                                  105.4100   -75.6920  -90.0000  bottom
+R10       10K                  R_0402_1005Metric                                   50.5460   -62.7380  -90.0000  bottom
+R11       5.1K                 R_0402_1005Metric                                   47.2440   -55.1180  180.0000  bottom
+R12       10K                  R_0402_1005Metric                                   44.7040   -68.3260  180.0000  bottom
+R13       10K                  R_0402_1005Metric                                   52.0700   -53.5940    0.0000  bottom
+R16       10K                  R_0402_1005Metric                                   70.6120   -68.8340   90.0000  bottom
+R17       100K                 R_0402_1005Metric                                   54.8640   -59.6900    0.0000  bottom
+R18       100K                 R_0402_1005Metric                                   54.8640   -61.2140  180.0000  bottom
+R19       5k6                  R_0402_1005Metric                                   49.5300   -62.7380  -90.0000  bottom
+R20       10K                  R_0402_1005Metric                                   50.0380   -64.2620  180.0000  bottom
+R21       5.1K                 R_0402_1005Metric                                   46.2280   -47.2440    0.0000  bottom
+R22       5.1K                 R_0402_1005Metric                                   47.7500   -51.5620    0.0000  bottom
+U1        RP2040               QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm                 73.8760   -62.7000  180.0000  bottom
+U2        MCP73831-2-OT        SOT-23-5                                            50.5460   -56.1340  180.0000  bottom
+U3        W25Q64JVSSIQ         SOIC-8_5.23x5.23mm_P1.27mm                          77.4700   -51.5840  180.0000  bottom
+U4        PAM8302A             MSOP-8_3x3mm_P0.65mm                               104.1400   -80.7720  -90.0000  bottom
+U5        AP2112K-3.3          SOT_RG1_DIO                                         45.7200   -65.7860    0.0000  bottom
+X1        ~                    JST_PH_S2B-PH-SM4-TB_1x02-1MP_P2.00mm_Horizontal    78.9940   -85.3440  180.0000  bottom
+Y1        12MHZ_XTal           Crystal_SMD_3225-4Pin_3.2x2.5mm                     76.9620   -71.6280  180.0000  bottom
+## End

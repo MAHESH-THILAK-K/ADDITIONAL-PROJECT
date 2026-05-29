@@ -1,0 +1,16 @@
+### Footprint positions - created on 2026-05-29T20:56:39+0530 ###
+### Printed by KiCad version 9.0.8-9.0.8~ubuntu22.04.1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val       Package                            PosX       PosY       Rot  Side
+A1        A         SW_PUSH-12mm_3DModel            98.2980  -103.1240    0.0000  top
+B1        B         SW_PUSH-12mm_3DModel            90.4240  -118.8720    0.0000  top
+Boot1     Boot      SW_SPST_B3U-1000P              104.3940   -38.1000  180.0000  top
+Down1     Down      SW_PUSH-12mm_3DModel            52.9420  -124.4600    0.0000  top
+Left1     Left      SW_PUSH-12mm_3DModel            41.9100  -111.2520    0.0000  top
+Reset1    Reset     SW_SPST_B3U-1000P               47.7520   -38.1000  180.0000  top
+Right1    Right     SW_PUSH-12mm_3DModel            64.1180  -111.2520    0.0000  top
+Select1   Select    SW_TH_Tactile_Omron_B3F-10xx    79.5020   -99.8220  180.0000  top
+Start1    Start     SW_TH_Tactile_Omron_B3F-10xx    90.4240   -99.8220  180.0000  top
+Up1       Up        SW_PUSH-12mm_3DModel            52.9420   -98.0440    0.0000  top
+## End
