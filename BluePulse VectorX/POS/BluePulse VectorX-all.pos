@@ -1,0 +1,36 @@
+### Footprint positions - created on 2026-05-26T11:24:17 ###
+### Printed by KiCad version 10.0.3
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                      Package                                        PosX       PosY       Rot  Side
+J2        Conn_01x20               PinHeader_1x20_P2.54mm_Vertical            129.7940   -75.6920  180.0000  bottom
+J3        Conn_01x20               PinHeader_1x20_P2.54mm_Vertical            145.0340   -75.6920  180.0000  bottom
+C1        100nF                    C_0402_1005Metric                          139.6000   -94.3000  -45.0000  top
+C2        100nF                    C_0402_1005Metric                          141.8000  -104.1394  -135.0000  top
+C3        100nF                    C_0402_1005Metric                          135.3000  -106.4000  135.0000  top
+C4        1uF                      C_0402_1005Metric                          131.7000   -97.8000   45.0000  top
+C5        1uF                      C_0402_1005Metric                          141.3000   -83.0580    0.0000  top
+C6        1uF                      C_0402_1005Metric                          141.0000   -88.7000  180.0000  top
+C7        18p                      C_0402_1005Metric                          139.3000  -108.7120  180.0000  top
+C8        18p                      C_0402_1005Metric                          141.1960  -108.7120    0.0000  top
+C9        100nF                    C_0402_1005Metric                          134.2000   -92.6000  180.0000  top
+C10       18p                      C_0402_1005Metric                          133.9000  -108.7000  180.0000  top
+C11       18p                      C_0402_1005Metric                          135.8000  -108.7000    0.0000  top
+D1        LED                      LED_0402_1005Metric                        141.9860  -116.0760   90.0000  top
+D2        LED                      LED_0402_1005Metric                        141.9860  -120.1170   90.0000  top
+J1        USB_C_Receptacle_USB2.0  USB_C_Receptacle_G-Switch_GT-USB-7010ASV   137.5000   -77.4150  180.0000  top
+J4        Conn_01x04               PinHeader_1x04_P2.54mm_Vertical            133.6040  -123.9520   90.0000  top
+R1        5.1k                     R_0402_1005Metric                          138.5000   -83.0580    0.0000  top
+R2        5.1k                     R_0402_1005Metric                          135.5000   -83.0580  180.0000  top
+R3        10k                      R_0402_1005Metric                          136.8000  -116.1000   90.0000  top
+R4        10k                      R_0402_1005Metric                          142.5000   -94.5000   45.0000  top
+R5        1.5k                     R_0402_1005Metric                          135.7000   -84.4000  180.0000  top
+R6        1k                       R_0402_1005Metric                          140.7160  -116.0780   90.0000  top
+R7        1k                       R_0402_1005Metric                          140.7160  -120.1400   90.0000  top
+SW1       SW_Push                  ALPSALPINE_SKRPACE010                      134.3600  -117.6000   90.0000  top
+SW2       SW_Push                  ALPSALPINE_SKRPACE010                      134.3700   -89.2800   90.0000  top
+U1        XC6206P332MR             SOT-23-3                                   140.5000   -85.8000   90.0000  top
+U2        STM32F103C8Tx            LQFP-48_7x7mm_P0.5mm                       137.6059  -100.5708  135.0000  top
+Y1        8MHz                     Crystal_SMD_5032-2Pin_5.0x3.2mm            139.9100  -111.5060    0.0000  top
+Y2        32.768kHz                Crystal_SMD_3215-2Pin_3.2x1.5mm            134.3460  -111.5060  180.0000  top
+## End
