@@ -1,0 +1,14 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "ecd4da9d-8b97-4cd4-8e7e-89dddf223f48")
+	(paper "A4")
+	(title_block
+		(title "NanoFlux EdgeCore")
+		(date "2026-05-26")
+		(rev "1")
+		(company "MAHESH THILAK K")
+	)
+	(lib_symbols)
+)

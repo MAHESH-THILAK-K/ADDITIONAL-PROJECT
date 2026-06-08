@@ -1,0 +1,36 @@
+### Footprint positions - created on 2026-05-26T11:48:01 ###
+### Printed by KiCad version 10.0.3
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                      Package                                                PosX       PosY       Rot  Side
+J2        ICSP                     PinHeader_2x03_P2.54mm_Vertical                    181.8000   -95.9600  180.0000  bottom
+A1        Arduino_Nano_v3.x        Arduino_Nano_WithMountingHoles                     179.0700   -90.8825  -90.0000  top
+C1        1u                       C_0402_1005Metric                                  150.0400  -101.1900  180.0000  top
+C2        100n                     C_0402_1005Metric                                  150.0400  -102.2600  180.0000  top
+C3        100n                     C_0402_1005Metric                                  150.0100  -103.4100  180.0000  top
+C4        100n                     C_0402_1005Metric                                  149.5200   -93.4000    0.0000  top
+C5        100n                     C_0402_1005Metric                                  172.1394   -94.9794  135.0000  top
+C6        100n                     C_0402_1005Metric                                  174.0194   -93.6594  -45.0000  top
+C7        100n                     C_0402_1005Metric                                  161.6494  -101.4894  135.0000  top
+C8        100n                     C_0402_1005Metric                                  163.0694  -102.8494  -45.0000  top
+C9        22p                      C_0402_1005Metric                                  170.7206   -93.5706  135.0000  top
+C10       22p                      C_0402_1005Metric                                  172.4894   -93.6794  -45.0000  top
+C11       1u                       C_0402_1005Metric                                  152.2600  -103.4300  180.0000  top
+C12       1u                       C_0402_1005Metric                                  159.3000  -102.3700  -90.0000  top
+D1        LED                      LED_0402_1005Metric                                158.5650   -98.0600  180.0000  top
+D2        D_Schottky               D_0402_1005Metric                                  152.2550  -102.2800  180.0000  top
+D3        LED                      LED_0402_1005Metric                                158.5350   -99.6500  180.0000  top
+F1        Polyfuse                 Fuse_0402_1005Metric                               152.2650  -101.1900  180.0000  top
+J1        USB_C_Receptacle_USB2.0  USB_C_Receptacle_G-Switch_GT-USB-7010ASV           142.8750   -98.4800  -90.0000  top
+R1        5.1k                     R_0402_1005Metric                                  148.3300   -96.4200   90.0000  top
+R2        5.1k                     R_0402_1005Metric                                  148.3300  -100.7400  -90.0000  top
+R3        5.1k                     R_0402_1005Metric                                  155.2900   -93.7000  180.0000  top
+R4        5.1k                     R_0402_1005Metric                                  152.8900   -93.4000    0.0000  top
+R5        330                      R_0402_1005Metric                                  176.4100  -102.7800    0.0000  top
+R6        2k                       R_0402_1005Metric                                  156.4300   -98.0700  180.0000  top
+R7        2k                       R_0402_1005Metric                                  156.4000   -99.6400  180.0000  top
+SW1       SW_Push                  SW_Tactile_SPST_NO_Straight_CK_PTS636Sx25SMTRLFS   180.5800   -98.9100  -90.0000  top
+U1        ATmega328P-A             TQFP-32_7x7mm_P0.8mm                               167.0910   -98.3537  -135.0000  top
+U2        XC6206P502MR             SOT-23-3                                           156.4525  -102.3200  180.0000  top
+Y1        16_MHz                   Crystal_SMD_3225-4Pin_3.2x2.5mm                    176.0032   -95.5389  -135.0000  top
+## End
