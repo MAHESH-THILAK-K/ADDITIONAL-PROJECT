@@ -1,0 +1,33 @@
+### Footprint positions - created on 2026-06-09T15:28:52 ###
+### Printed by KiCad version 10.0.3
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val       Package                               PosX       PosY       Rot  Side
+J3        RPi_Zero  PinSocket_2x20_P2.54mm_Vertical   108.3700   -74.7700  -90.0000  bottom
+C1        10n       C_0603_1608Metric                 143.0020   -89.0270    0.0000  top
+C2        10n       C_0603_1608Metric                 134.6200   -81.0260   90.0000  top
+C3        10n       C_0603_1608Metric                 145.5579   -81.4070   90.0000  top
+C4        10n       C_0603_1608Metric                 138.4300   -94.2340  -90.0000  top
+C5        100n      C_0603_1608Metric                 143.0020   -87.5030    0.0000  top
+C6        100n      C_0603_1608Metric                 133.0960   -81.0260   90.0000  top
+C7        100n      C_0603_1608Metric                 143.0020   -90.5510    0.0000  top
+C8        100n      C_0603_1608Metric                 139.9540   -94.2340  -90.0000  top
+C9        100n      C_0603_1608Metric                 143.0020   -85.9790    0.0000  top
+C10       100n      C_0603_1608Metric                 143.0020   -84.4550    0.0000  top
+C11       33p       C_0603_1608Metric                 136.9060   -94.2340  -90.0000  top
+C12       27p       C_0603_1608Metric                 135.3820   -94.2340  -90.0000  top
+C13       100n      C_0603_1608Metric                 133.0960   -94.2340  -90.0000  top
+IC1       SX1255    QFN50P500X500X80-33N-D            136.3980   -87.6300  180.0000  top
+J1        TX_SMA    SMA_Amphenol_901-144_Vertical     156.5000   -86.0000   45.0000  top
+J2        RX_SMA    SMA_Amphenol_901-144_Vertical     108.5000   -86.0000   45.0000  top
+L1        82n       L_0603_1608Metric                 131.4450   -94.2340  -90.0000  top
+L2        39n       L_0603_1608Metric                 128.7780   -96.7740    0.0000  top
+R1        100R      R_0603_1608Metric                 139.1920   -81.0260   90.0000  top
+R2        100R      R_0603_1608Metric                 137.6680   -81.0260   90.0000  top
+R3        100R      R_0603_1608Metric                 136.1440   -81.0260   90.0000  top
+R4        100R      R_0603_1608Metric                 129.3934   -89.9649    0.0000  top
+R5        100R      R_0603_1608Metric                 129.3934   -88.1688    0.0000  top
+R6        100R      R_0603_1608Metric                 129.3934   -86.3728    0.0000  top
+R7        100R      R_0603_1608Metric                 129.3934   -84.5767    0.0000  top
+Y1        32MHz     Crystal_SMD_2016-4Pin_2.0x1.6mm   143.0434   -81.4070  180.0000  top
+## End
