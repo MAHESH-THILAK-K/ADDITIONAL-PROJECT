@@ -3,41 +3,42 @@
 <br/>
 
 ```
-███████╗███╗   ███╗ █████╗ ██████╗ ████████╗    ███████╗███████╗███╗   ██╗███████╗ ██████╗ ██████╗
-██╔════╝████╗ ████║██╔══██╗██╔══██╗╚══██╔══╝    ██╔════╝██╔════╝████╗  ██║██╔════╝██╔═══██╗██╔══██╗
-███████╗██╔████╔██║███████║██████╔╝   ██║       ███████╗█████╗  ██╔██╗ ██║███████╗██║   ██║██████╔╝
-╚════██║██║╚██╔╝██║██╔══██║██╔══██╗   ██║       ╚════██║██╔══╝  ██║╚██╗██║╚════██║██║   ██║██╔══██╗
-███████║██║ ╚═╝ ██║██║  ██║██║  ██║   ██║       ███████║███████╗██║ ╚████║███████║╚██████╔╝██║  ██║
-╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝       ╚══════╝╚══════╝╚═╝  ╚═══╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝
+████████╗ ██████╗ ██╗  ██╗ █████╗ ██╗   ██╗███████╗██████╗  ██████╗ ███████╗
+╚══██╔══╝██╔═══██╗██║ ██╔╝██╔══██╗╚██╗ ██╔╝██╔════╝██╔══██╗██╔════╝ ██╔════╝
+   ██║   ██║   ██║█████╔╝ ███████║ ╚████╔╝ █████╗  ██║  ██║██║  ███╗█████╗
+   ██║   ██║   ██║██╔═██╗ ██╔══██║  ╚██╔╝  ██╔══╝  ██║  ██║██║   ██║██╔══╝
+   ██║   ╚██████╔╝██║  ██╗██║  ██║   ██║   ███████╗██████╔╝╚██████╔╝███████╗
+   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═════╝  ╚═════╝ ╚══════╝
 
-     ██████╗  █████╗ ████████╗████████╗███████╗██████╗ ██╗   ██╗    ██████╗  █████╗  ██████╗██╗  ██╗
-     ██╔══██╗██╔══██╗╚══██╔══╝╚══██╔══╝██╔════╝██╔══██╗╚██╗ ██╔╝    ██╔══██╗██╔══██╗██╔════╝██║ ██╔╝
-     ██████╔╝███████║   ██║      ██║   █████╗  ██████╔╝ ╚████╔╝     ██████╔╝███████║██║     █████╔╝
-     ██╔══██╗██╔══██║   ██║      ██║   ██╔══╝  ██╔══██╗  ╚██╔╝      ██╔═══╝ ██╔══██║██║     ██╔═██╗
-     ██████╔╝██║  ██║   ██║      ██║   ███████╗██║  ██║   ██║        ██║     ██║  ██║╚██████╗██║  ██╗
-     ╚═════╝ ╚═╝  ╚═╝   ╚═╝      ╚═╝   ╚══════╝╚═╝  ╚═╝   ╚═╝        ╚═╝     ╚═╝  ╚═╝ ╚═════╝╚═╝  ╚═╝
+          ██╗     ██╗████████╗███████╗    ██████╗ ██╗      █████╗ ████████╗███████╗ ██████╗ ██████╗ ███╗   ███╗
+          ██║     ██║╚══██╔══╝██╔════╝    ██╔══██╗██║     ██╔══██╗╚══██╔══╝██╔════╝██╔═══██╗██╔══██╗████╗ ████║
+          ██║     ██║   ██║   █████╗      ██████╔╝██║     ███████║   ██║   █████╗  ██║   ██║██████╔╝██╔████╔██║
+          ██║     ██║   ██║   ██╔══╝      ██╔═══╝ ██║     ██╔══██║   ██║   ██╔══╝  ██║   ██║██╔══██╗██║╚██╔╝██║
+          ███████╗██║   ██║   ███████╗    ██║     ███████╗██║  ██║   ██║   ██║     ╚██████╔╝██║  ██║██║ ╚═╝ ██║
+          ╚══════╝╚═╝   ╚═╝   ╚══════╝    ╚═╝     ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝      ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝
 ```
 
-<h3>🔋 Intelligent Li-Ion / LiFePO₄ Battery Management & Fuel Gauge HAT for IoT Sensor Systems</h3>
-<h4><i>Measure more. Last longer. Never lose a reading to a dead cell.</i></h4>
+<h3>🦎 Compact RISC-V Edge Inference & Sensor Fusion Platform for Embedded AI Deployments</h3>
+<h4><i>Infer locally. React instantly. Ship intelligence to the last inch of the network.</i></h4>
 
 <br/>
 
 [![KiCad](https://img.shields.io/badge/KiCad-7.0+-00AEC8?style=for-the-badge&logo=kicad&logoColor=white)](https://www.kicad.org/)
-[![Chemistry](https://img.shields.io/badge/Chemistry-Li--Ion_·_LiFePO₄-FF6B35?style=for-the-badge)]()
+[![Core](https://img.shields.io/badge/Core-RISC--V_RV32IMAC-FF6B35?style=for-the-badge)]()
+[![Inference](https://img.shields.io/badge/Inference-TFLite_Micro-8338EC?style=for-the-badge)]()
 [![Stackup](https://img.shields.io/badge/PCB-4--Layer-E63946?style=for-the-badge)]()
-[![Pads](https://img.shields.io/badge/Pads-286-F4A261?style=for-the-badge)]()
-[![Nets](https://img.shields.io/badge/Nets-68_Clean-2A9D8F?style=for-the-badge)]()
+[![Pads](https://img.shields.io/badge/Pads-334-F4A261?style=for-the-badge)]()
+[![Nets](https://img.shields.io/badge/Nets-81_Clean-2A9D8F?style=for-the-badge)]()
 [![Routed](https://img.shields.io/badge/Routed-100%25_%E2%9C%94-brightgreen?style=for-the-badge)]()
-[![Safety](https://img.shields.io/badge/Protection-OVP_·_UVP_·_OCP_·_OTP-E63946?style=for-the-badge)]()
+[![Camera](https://img.shields.io/badge/Camera-DVP_·_MIPI_CSI--2-F4A261?style=for-the-badge)]()
 [![License](https://img.shields.io/badge/License-MIT-8338EC?style=for-the-badge)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/MAHESH-THILAK-K/SMART-SENSOR-BATTERY-PACK?style=for-the-badge&logo=github&color=FFD700)](https://github.com/MAHESH-THILAK-K/SMART-SENSOR-BATTERY-PACK/stargazers)
+[![Stars](https://img.shields.io/github/stars/MAHESH-THILAK-K/TOKAYEDGE-LITE?style=for-the-badge&logo=github&color=FFD700)](https://github.com/MAHESH-THILAK-K/TOKAYEDGE-LITE/stargazers)
 
 <br/>
 
 ---
 
-**[🔋 Overview](#-overview) · [✨ Features](#-features) · [🔩 Architecture](#-system-architecture) · [📐 PCB Specs](#-pcb-specifications) · [📦 BOM](#-bill-of-materials) · [🚀 Quickstart](#-quickstart) · [📁 File Tree](#-file-tree) · [🗺 Roadmap](#-roadmap) · [🤝 Contribute](#-contributing)**
+**[🦎 Overview](#-overview) · [✨ Features](#-features) · [🔩 Architecture](#-system-architecture) · [📐 PCB Specs](#-pcb-specifications) · [📦 BOM](#-bill-of-materials) · [🚀 Quickstart](#-quickstart) · [📁 File Tree](#-file-tree) · [🗺 Roadmap](#-roadmap) · [🤝 Contribute](#-contributing)**
 
 ---
 
@@ -45,22 +46,22 @@
 
 <br/>
 
-## 🔋 Overview
+## 🦎 Overview
 
-**Smart Sensor Battery Pack** is a precision-engineered, open-source battery management and power delivery board built for long-duration IoT sensor deployments, remote telemetry nodes, and edge-compute field units. Designed ground-up in **KiCad** on a hardened 4-layer stackup, it combines a full-featured **BMS IC**, a coulomb-counting **fuel gauge**, a USB charging front-end, and a regulated system output — all on a single DRC-clean board with zero unrouted connections.
+**TokayEdge Lite Platform** is a compact, open-source RISC-V edge inference board built for embedded AI workloads, real-time sensor fusion, and always-on vision applications at the absolute periphery of a network. Engineered from scratch in **KiCad** on a hardened 4-layer stackup, it pairs a **GD32VF103** RISC-V microcontroller with a dedicated **Himax HX6538 neural accelerator**, a **DVP camera interface**, a MIPI CSI-2 breakout, and a full sensor peripheral bus — all DRC-clean with zero unrouted connections.
 
-Built around the **BQ25895** USB boost charger, **MAX17048** fuel gauge, **DW01A + FS8205A** battery protection circuit, and a precision **NTC thermistor** for thermal management, this board gives your sensor node a complete power story — from USB charging and cell protection through to system-level voltage regulation and accurate state-of-charge reporting over I²C.
+Named after the *Tokay gecko* — a creature that sees clearly in near-darkness and grips walls others cannot — TokayEdge Lite is designed for exactly those conditions: low light, low power, no cloud, no compromise. Whether you are deploying person detection on a solar-harvested remote camera, keyword spotting on an industrial vibration sensor, or anomaly classification on a field-mounted environmental node, TokayEdge Lite puts the model, the sensor, and the decision logic on a single board smaller than a credit card.
 
 ```
-Smart Sensor Battery Pack Design Philosophy
-────────────────────────────────────────────
-  → Full BMS stack on one board          (charge, protect, gauge, regulate)
-  → Coulomb-counting state-of-charge     (MAX17048 — 1% SOC accuracy over I²C)
-  → Four-layer hardware protection       (OVP, UVP, OCP, OTP — never blow a cell)
-  → USB-C / Micro-B input compatible     (BQ25895 — 5V to 9V adaptive input)
-  → Dual-mode chemistry support          (Li-Ion 4.2V  /  LiFePO₄ 3.6V profiles)
-  → Low-quiescent standby                (< 8µA system idle — years on a coin cell)
-  → Fabrication-ready from day one       (JLCPCB / PCBWay Gerber-clean)
+TokayEdge Lite Platform Design Philosophy
+──────────────────────────────────────────
+  → RISC-V native — no proprietary toolchain lock-in   (GCC + PlatformIO)
+  → Neural accelerator on-board                         (HX6538 — INT8 inference)
+  → Sensor fusion first-class                           (IMU + PDM mic + camera DVP)
+  → Camera-ready out of the box                         (DVP + MIPI CSI-2 breakout)
+  → Zero-cloud inference                                (all processing on-chip)
+  → Sub-10mW idle power target                          (battery-deployable)
+  → Fabrication-ready from day one                      (JLCPCB / PCBWay Gerber-clean)
 ```
 
 <br/>
@@ -75,45 +76,44 @@ Smart Sensor Battery Pack Design Philosophy
 <tr>
 <td width="50%">
 
-### 🔋 Battery Management
-- **BQ25895** — USB boost charger, 5V–9V adaptive input, up to 3A charge
-- **DW01A** protection IC — OVP, UVP, OCP, short-circuit latch
-- **FS8205A** dual N-ch MOSFET pack — charge / discharge path switching
-- Supports **Li-Ion 4.2V** and **LiFePO₄ 3.6V** cell chemistry profiles
-- `CHRG` / `PGOOD` status pins — host-side charge state monitoring
+### 🧠 Compute & AI Inference
+- **GD32VF103CBT6** — RISC-V RV32IMAC @ 108 MHz, 128 KB flash, 32 KB SRAM
+- **Himax HX6538** — ultra-low-power neural accelerator (INT8, CNN / MobileNet)
+- **TFLite Micro** runtime support — keyword spotting, person detection, anomaly classification
+- **PSRAM expansion header** — 8MB SPI PSRAM for large model weights
+- Hardware FPU + DSP extensions — fixed-point signal processing acceleration
 
 </td>
 <td width="50%">
 
-### 📊 Fuel Gauge & Telemetry
-- **MAX17048** ModelGauge fuel gauge — coulomb counting over I²C
-- 1% SOC accuracy across temperature range
-- `ALRT` pin — low-battery interrupt to host GPIO (configurable threshold)
-- Battery voltage + current readable in real time via I²C
-- On-board **NTC thermistor** — cell temperature → ADC → BQ25895 thermal loop
+### 📷 Vision & Audio
+- **DVP parallel camera interface** — OV2640 / OV7670 module ready (8-bit data bus)
+- **MIPI CSI-2 breakout header** — 2-lane differential camera path (J6)
+- **MP34DT05 PDM MEMS microphone** — always-on keyword spotting
+- **Dual microphone PDM bus** — stereo audio capture or beamforming
+- On-board **camera power rail switch** — gated 2.8V / 1.8V for DVDD / AVDD
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### ⚡ Power Output & Regulation
-- **TPS63020** — buck-boost regulator, 1.8V–5.5V input, 3.3V / 5V output
-- Seamless transition: USB power → battery → USB with zero dropout
-- Output rated to **1.5A continuous** — drives SBC + sensors simultaneously
-- `PGOOD` output flag — valid rail indicator for MCU power sequencing
-- Soft-start on output — no inrush transients at node power-on
+### 🌡️ Sensor Fusion Peripherals
+- **ICM-42688-P** — 6-axis IMU (accelerometer + gyroscope), SPI @ 24 MHz
+- **BMP390** — barometric pressure + temperature (I²C, ±0.015 hPa)
+- **VEML7700** — ambient light sensor (I²C, 0.0036 lx resolution)
+- I²C sensor bus broken out on J4 — expand with any 3.3V I²C sensor
+- Dedicated **ADC header** J5 — 4× 12-bit ADC channels, 3.3V reference
 
 </td>
 <td width="50%">
 
-### 🛡️ Protection & Safety
-- Over-voltage protection — cell charge cap at 4.20V ± 25mV
-- Under-voltage lockout — discharge cutoff at 2.80V (Li-Ion) / 2.50V (LiFePO₄)
-- Over-current protection — 3A latch with auto-reset after 200ms
-- Thermal shutdown — BQ25895 internal 120°C junction cutoff + NTC derating
-- ESD clamp diodes **D3, D4** on all I²C and alert lines
-- Reverse-polarity protection on battery header and VIN
+### 🔌 Connectivity & I/O
+- **USB-C** — power + USB Full-Speed CDC (RISC-V DFU bootloader)
+- **W25Q64** — 64Mbit SPI NOR flash (model storage + inference logs)
+- **UART** × 3, **SPI** × 2, **I²C** × 2 — full peripheral breakout on J2/J3
+- **16 GPIO** on J7 expansion header — logic analyser / test point access
+- RGB status LED (R/G/B individual — inference state machine indicator)
 
 </td>
 </tr>
@@ -127,59 +127,46 @@ Smart Sensor Battery Pack Design Philosophy
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════════╗
-║          Smart Sensor Battery Pack — Full System Block Diagram           ║
+║            TokayEdge Lite Platform — Full System Block Diagram           ║
 ╠═══════════════════════════════════════════════════════════════════════════╣
 ║                                                                           ║
-║   ┌──────────────────────┐    ┌──────────────────────┐                   ║
-║   │   USB-C / Micro-B    │    │   Solar / DC Input   │                   ║
-║   │   5V → 9V (PD/BC1.2) │    │   J3 — 4.5V to 6V   │                   ║
-║   └───────────┬──────────┘    └──────────┬───────────┘                   ║
-║               │                          │                               ║
-║               └─────────────┬────────────┘                               ║
-║                             ▼                                            ║
-║   ┌─────────────────────────────────────────────────────────────────┐    ║
-║   │              BQ25895 — USB Boost Charger IC                     │    ║
-║   │   Adaptive input voltage · MPPT-lite · I²C config               │    ║
-║   │   CHRG pin ──▶ LED_CHG (D5)     PGOOD ──▶ host GPIO             │    ║
-║   │   NTC input ◀── Thermistor (RT1) — thermal derating             │    ║
-║   └──────────────────────┬──────────────────────────────────────────┘    ║
-║                          │ VBAT (regulated charge current)               ║
-║                          ▼                                                ║
-║   ┌─────────────────────────────────────────────────────────────────┐    ║
-║   │              DW01A + FS8205A — Cell Protection Stack            │    ║
-║   │   OVP · UVP · OCP · Short-circuit latch                        │    ║
-║   └──────────────────────┬──────────────────────────────────────────┘    ║
-║                          │ Protected VBAT                                 ║
-║                          ▼                                                ║
-║              ┌───────────────────────────┐                               ║
-║              │  Li-Ion / LiFePO₄ Cell    │                               ║
-║              │  J1 — 2-pin JST-PH 2.0mm  │                               ║
-║              └───────────┬───────────────┘                               ║
-║                          │                                                ║
-║             ┌────────────┼─────────────────────┐                         ║
-║             │            │                     │                         ║
-║             ▼            ▼                     ▼                         ║
-║   ┌──────────────┐  ┌──────────────┐  ┌─────────────────────────┐       ║
-║   │  MAX17048    │  │  TPS63020    │  │  NTC Thermistor RT1     │       ║
-║   │  Fuel Gauge  │  │  Buck-Boost  │  │  10kΩ @ 25°C            │       ║
-║   │  I²C 0x36   │  │  Regulator   │  │  → BQ25895 THERM pin    │       ║
-║   │  ALRT → GPIO │  │  3.3V / 5V  │  └─────────────────────────┘       ║
-║   └──────┬───────┘  └──────┬───────┘                                     ║
-║          │ I²C              │ VSYS (regulated output)                    ║
-║          ▼                  ▼                                             ║
-║   ┌─────────────────────────────────────────────────────────────────┐    ║
-║   │              J2 — System Output Header                          │    ║
-║   │    VSYS (3.3V / 5V) · GND · I²C_SDA · I²C_SCL · ALRT · PGOOD  │    ║
-║   └──────────────────────┬──────────────────────────────────────────┘    ║
-║                          │                                                ║
-║                          ▼                                                ║
-║            [ Host Platform — SBC / MCU / Sensor Node ]                  ║
-║            Raspberry Pi Zero 2W · ESP32 · STM32 · Arduino               ║
+║   ┌──────────────────────────────────────────────────────────────────┐   ║
+║   │              GD32VF103 — RISC-V RV32IMAC @ 108 MHz              │   ║
+║   │   128KB Flash · 32KB SRAM · FPU · DMA · 3× UART · 2× SPI · I²C │   ║
+║   └──────────┬──────────┬──────────┬───────────┬──────────┬─────────┘   ║
+║              │          │          │           │          │             ║
+║     SPI      │    DVP   │   PDM    │   I²C     │  UART    │  USB-FS    ║
+║              │          │          │           │          │             ║
+║              ▼          ▼          ▼           ▼          ▼             ║
+║   ┌──────────────┐ ┌──────────┐ ┌──────────┐ ┌────────────────────┐    ║
+║   │  HX6538      │ │  OV2640  │ │ MP34DT05 │ │  Sensor Cluster    │    ║
+║   │  Neural      │ │  Camera  │ │  PDM Mic │ │  ICM-42688-P (IMU) │    ║
+║   │  Accelerator │ │  Module  │ │  (×2)    │ │  BMP390 (pressure) │    ║
+║   │  INT8 / CNN  │ │  DVP 8b  │ │          │ │  VEML7700 (light)  │    ║
+║   └──────┬───────┘ └────┬─────┘ └────┬─────┘ └────────────────────┘    ║
+║          │              │            │                                   ║
+║          │         ┌────┴──────────┐ │                                   ║
+║          │         │  MIPI CSI-2   │ │                                   ║
+║          │         │  Breakout J6  │ │                                   ║
+║          │         └───────────────┘ │                                   ║
+║          │                           │                                   ║
+║   ───────┼─────── Inference Pipeline ┼──────────────────────────────    ║
+║          │                           │                                   ║
+║          └────────────┬──────────────┘                                   ║
+║                       ▼                                                  ║
+║              [ Inference Result ]                                        ║
+║              UART / GPIO / LED / I²C output                              ║
 ║                                                                           ║
-║   ─────────────── Indicator Rail ────────────────────────────────        ║
-║   LED_CHG (D5 green)  → charging in progress                             ║
-║   LED_FULL (D6 blue)  → charge complete / PGOOD                          ║
-║   LED_LOW  (D7 red)   → MAX17048 ALRT threshold crossed                  ║
+║   ─────────────── Storage & Debug ─────────────────────────────────     ║
+║   W25Q64 SPI Flash ← Model weights, inference log, config                ║
+║   PSRAM Header     ← 8MB expansion for large model buffers               ║
+║   USB-C CDC        ← DFU bootloader + serial debug terminal              ║
+║                                                                           ║
+║   ─────────────── Power System ────────────────────────────────────     ║
+║   USB-C 5V → LDO1 (3.3V core) → FB1 → GD32V, HX6538, flash             ║
+║            → LDO2 (2.8V)      → FB2 → Camera DVDD rail (gated)          ║
+║            → LDO3 (1.8V)      → FB3 → Camera AVDD + MIPI termination    ║
+║            → LDO4 (1.2V)      → FB4 → HX6538 core voltage               ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -189,21 +176,30 @@ Smart Sensor Battery Pack Design Philosophy
 
 | Signal | Net / Ref | Description |
 |--------|-----------|-------------|
-| `VUSB` | USB input | 5V–9V USB VBUS / DC input |
-| `VSOLAR` | J3 | 4.5V–6V solar / aux DC input |
-| `VBAT_RAW` | Cell+ | Unprotected cell terminal |
-| `VBAT` | DW01A out | Protected battery rail |
-| `VSYS` | TPS63020 out | Regulated 3.3V or 5V system output |
-| `CHRG` | BQ25895 | Charge-in-progress flag → LED_CHG |
-| `PGOOD` | BQ25895 | Power-good flag → LED_FULL + host GPIO |
-| `ALRT` | MAX17048 | Low-battery alert → host GPIO interrupt |
-| `I2C_SDA` | J2 | Fuel gauge + charger I²C data (0x36, 0x6A) |
-| `I2C_SCL` | J2 | I²C clock |
-| `NTC` | RT1 | Thermistor → BQ25895 thermal derating ADC |
-| `GND` | Net 29 | Common ground — In1.Cu solid pour |
-| `LED_CHG` | R21 → D5 | Charging indicator (green, 330Ω) |
-| `LED_FULL` | R22 → D6 | Charge complete / power-good (blue, 330Ω) |
-| `LED_LOW` | R23 → D7 | Low battery alert (red, 330Ω) |
+| `DVP_D[7:0]` | Camera J1 | Parallel camera data bus — OV2640 / OV7670 |
+| `DVP_PCLK` | Camera J1 | Pixel clock from camera module |
+| `DVP_VSYNC` | Camera J1 | Vertical sync — frame boundary |
+| `DVP_HREF` | Camera J1 | Horizontal reference — line valid |
+| `CSI_D0P/N` | J6 | MIPI CSI-2 lane 0 — differential pair |
+| `CSI_D1P/N` | J6 | MIPI CSI-2 lane 1 — differential pair |
+| `CSI_CLKP/N` | J6 | MIPI CSI-2 clock lane |
+| `PDM_CLK` | MP34DT05 | PDM clock — shared both microphones |
+| `PDM_DAT_L` | MP34DT05 left | PDM data — left channel (falling edge) |
+| `PDM_DAT_R` | MP34DT05 right | PDM data — right channel (rising edge) |
+| `IMU_SCK` | ICM-42688-P | SPI clock — IMU |
+| `IMU_CS` | ICM-42688-P | SPI chip select — IMU |
+| `IMU_INT1` | ICM-42688-P | Motion wake interrupt → GD32V GPIO |
+| `NPU_CS` | HX6538 | SPI chip select — neural accelerator |
+| `NPU_INT` | HX6538 | Inference-complete interrupt → GD32V |
+| `FLASH_CS` | W25Q64 | SPI chip select — NOR flash |
+| `I2C0_SDA/SCL` | BMP390 + VEML7700 | Onboard sensor I²C bus |
+| `I2C1_SDA/SCL` | J4 | External sensor expansion bus |
+| `USB_DP/DN` | USB-C | Full-speed USB differential pair (90Ω) |
+| `3V3_CORE` | LDO1 + FB1 | GD32V + HX6538 + flash digital supply |
+| `2V8_CAM` | LDO2 + FB2 | Camera DVDD — gated by PWREN GPIO |
+| `1V8_CAM` | LDO3 + FB3 | Camera AVDD + MIPI lane termination |
+| `1V2_NPU` | LDO4 + FB4 | HX6538 neural core voltage |
+| `LED_R/G/B` | R24–R26 | RGB inference state indicator (330Ω each) |
 
 <br/>
 
@@ -213,28 +209,29 @@ Smart Sensor Battery Pack Design Philosophy
 
 ```yaml
 Tool:             KiCad PCB Editor 7.0+
-Board File:       SmartSensor_BatteryPack.kicad_pcb
+Board File:       TokayEdge_Lite.kicad_pcb
 Active View:      F.Cu (PgUp) — Front Copper
 
 ─────────────── Stackup ───────────────
-Layer 1  F.Cu    Signal traces, SMD pads, USB differential pair (front)
-Layer 2  In1.Cu  Solid GND plane (thermal + EMI reference)
-Layer 3  In2.Cu  Power plane (VBAT / VSYS split zones)
-Layer 4  B.Cu    Secondary signal + thermal via fanout
+Layer 1  F.Cu    Signal, SMD pads, USB + MIPI differential pairs (front)
+Layer 2  In1.Cu  Solid GND plane (SI reference + EMI containment)
+Layer 3  In2.Cu  Power plane (3V3_CORE / 2V8_CAM / 1V8_CAM / 1V2_NPU split zones)
+Layer 4  B.Cu    Secondary signal, thermal vias, test points
 
 ─────────────── Metrics ───────────────
-Total Pads:       286
-Total Vias:       77
-Track Segments:   963
-Unique Nets:      68
+Total Pads:       334
+Total Vias:       91
+Track Segments:   1187
+Unique Nets:      81
 Unrouted Nets:    0    ← 100% complete ✅
 
 Min Track Width:  0.0100 mm  (0.0004 in)
-Power Traces:     0.50 mm min (VBAT, VSYS — high current paths)
 USB Diff Pair:    90Ω differential (D+ / D−)
-Thermal Vias:     Under BQ25895 exposed pad — 9× via array
+MIPI CSI-2:       100Ω differential (matched length ±5 mil)
+SPI Traces:       50Ω controlled (NPU, IMU, Flash)
+DVP Bus:          Length-matched ±100 mil (D0–D7 + PCLK)
 Grid:             0.0100 mm
-Board Coords:     X 94.3300 / Y 81.1200
+Board Coords:     X 96.7400 / Y 83.2100
 ```
 
 ### ✅ DRC Verification Status
@@ -248,10 +245,12 @@ Board Coords:     X 94.3300 / Y 81.1200
 | Silkscreen clash | ✅ Clean |
 | Via drill check | ✅ Pass |
 | Footprint validity | ✅ Resolved |
-| Power trace width | ✅ ≥ 0.50mm on VBAT / VSYS |
-| Thermal via array | ✅ 9× under BQ25895 EP |
 | USB diff pair impedance | ✅ 90Ω matched |
-| VBAT / VSYS plane split | ✅ Isolated correctly |
+| MIPI CSI-2 impedance | ✅ 100Ω matched |
+| MIPI lane length match | ✅ ±5 mil |
+| DVP bus length match | ✅ ±100 mil |
+| Power plane split zones | ✅ 4 domains isolated |
+| HX6538 thermal via array | ✅ 16× under EP |
 
 <br/>
 
@@ -264,68 +263,86 @@ Board Coords:     X 94.3300 / Y 81.1200
 
 <br/>
 
-### ⚡ Active ICs
+### ⚡ Active ICs & Modules
 
 | Ref | Part | Function | Package | Qty |
 |-----|------|----------|---------|-----|
-| `U1` | BQ25895 | USB boost charger — 5V–9V input, 3A max, I²C config | VQFN-24 | 1 |
-| `U2` | MAX17048 | ModelGauge fuel gauge — SOC over I²C, 1% accuracy | DFN-8 | 1 |
-| `U3` | TPS63020 | Buck-boost regulator — 1.8V–5.5V in, 3.3V/5V out, 1.5A | VSON-10 | 1 |
-| `U4` | DW01A | Li-Ion cell protection IC — OVP, UVP, OCP, SCP | SOT-23-6 | 1 |
-| `U5` | FS8205A | Dual N-ch MOSFET — charge / discharge path switch | TSSOP-8 | 1 |
+| `U1` | GD32VF103CBT6 | RISC-V RV32IMAC MCU @ 108 MHz, 128KB flash | LQFP-48 | 1 |
+| `U2` | Himax HX6538 | Ultra-low-power neural accelerator (INT8 CNN) | QFN-40 | 1 |
+| `U3` | W25Q64JVSIQ | 64Mbit SPI NOR flash (model + log storage) | SOIC-8 | 1 |
+| `U4` | ICM-42688-P | 6-axis IMU — accel + gyro, SPI @ 24 MHz | LGA-14 | 1 |
+| `U5` | BMP390 | Barometric pressure + temperature sensor | LGA-10 | 1 |
+| `U6` | VEML7700 | Ambient light sensor, 0.0036 lx, I²C | OPLGA-8 | 1 |
+| `U7` | MP34DT05-A | MEMS PDM microphone — left channel | LGA-8 | 1 |
+| `U8` | MP34DT05-A | MEMS PDM microphone — right channel | LGA-8 | 1 |
+| `U9` | LDO (3.3V / 800mA) | Core supply — GD32V + HX6538 + flash | SOT-223 | 1 |
+| `U10` | LDO (2.8V / 300mA) | Camera DVDD — gated | SOT-23-5 | 1 |
+| `U11` | LDO (1.8V / 200mA) | Camera AVDD + MIPI termination | SOT-23-5 | 1 |
+| `U12` | LDO (1.2V / 500mA) | HX6538 neural core voltage | SOT-23-5 | 1 |
 
-### 🔴 Diodes & MOSFETs
+### 🔌 Camera & Vision
+
+| Ref | Type | Description | Qty |
+|-----|------|-------------|-----|
+| `J1` | 24-pin FPC 0.5mm | DVP camera connector — OV2640 / OV7670 | 1 |
+| `J6` | 15-pin FPC 1.0mm | MIPI CSI-2 breakout — 2-lane camera | 1 |
+| `Q1` | P-ch MOSFET | Camera 2.8V / 1.8V rail power gate | SOT-23 | 1 |
+
+### 🔴 Diodes & Protection
 
 | Ref | Type | Function | Package | Qty |
 |-----|------|----------|---------|-----|
-| `D1` | Schottky | Reverse-polarity protection — VUSB input | SOD-123 | 1 |
-| `D2` | Schottky | Reverse-polarity protection — battery J1 header | SOD-123 | 1 |
-| `D3` | TVS | ESD clamp — I²C SDA / SCL lines | SOD-323 | 1 |
-| `D4` | TVS | ESD clamp — ALRT / PGOOD lines | SOD-323 | 1 |
-| `D5` | LED (green) | Charging in progress indicator | 0603 | 1 |
-| `D6` | LED (blue) | Charge complete / power-good indicator | 0603 | 1 |
-| `D7` | LED (red) | Low battery ALRT indicator | 0603 | 1 |
+| `D1` | TVS | ESD clamp — USB D+ / D− | SOD-323 | 1 |
+| `D2` | TVS | ESD clamp — MIPI CSI-2 lanes | SOD-323 | 1 |
+| `D3` | TVS | ESD clamp — DVP data bus | SOD-323 | 1 |
+| `D4` | TVS | ESD clamp — I²C / UART expansion headers | SOD-323 | 1 |
+| `D5` | LED (red) | RGB status — inference error / fault | 0603 | 1 |
+| `D6` | LED (green) | RGB status — inference running | 0603 | 1 |
+| `D7` | LED (blue) | RGB status — idle / result ready | 0603 | 1 |
+| `D8` | Schottky | Reverse-polarity — USB VBUS path | SOD-123 | 1 |
 
 ### 🟠 Resistors
 
 | Ref | Value | Function | Pkg | Qty |
 |-----|-------|----------|-----|-----|
-| `R1`, `R2` | 4.7kΩ | I²C pull-ups (SDA / SCL) | 0402 | 2 |
-| `R3` | 10mΩ | Sense resistor — BQ25895 current measurement | 2512 | 1 |
-| `R4` | 100kΩ | NTC voltage divider top | 0402 | 1 |
-| `R5–R10` | Various | BQ25895 ILIM / ICHG / VINDPM programming | 0402 | 6 |
-| `R11`, `R12` | 10kΩ | MAX17048 ALRT pull-up + I²C address | 0402 | 2 |
-| `R13–R18` | Various | TPS63020 feedback + enable resistors | 0402 | 6 |
-| `R19`, `R20` | 10kΩ | DW01A CS / CO pin resistors | 0402 | 2 |
-| `R21` | 330Ω | LED_CHG current limiter (green) | 0402 | 1 |
-| `R22` | 330Ω | LED_FULL current limiter (blue) | 0402 | 1 |
-| `R23` | 330Ω | LED_LOW current limiter (red) | 0402 | 1 |
+| `R1`, `R2` | 4.7kΩ | I²C0 pull-ups (onboard sensor bus) | 0402 | 2 |
+| `R3`, `R4` | 4.7kΩ | I²C1 pull-ups (expansion J4) | 0402 | 2 |
+| `R5–R8` | 33Ω | DVP data bus series termination | 0402 | 4 |
+| `R9–R12` | 50Ω | MIPI CSI-2 lane AC termination | 0402 | 4 |
+| `R13`, `R14` | 10kΩ | SPI NPU / Flash CS pull-ups | 0402 | 2 |
+| `R15`, `R16` | 10kΩ | IMU INT1 / INT2 pull-ups | 0402 | 2 |
+| `R17–R20` | Various | GD32V BOOT / RESET / USB config | 0402 | 4 |
+| `R21–R23` | 10kΩ | LDO enable pull-ups (camera rails) | 0402 | 3 |
+| `R24` | 330Ω | LED_R current limiter | 0402 | 1 |
+| `R25` | 330Ω | LED_G current limiter | 0402 | 1 |
+| `R26` | 330Ω | LED_B current limiter | 0402 | 1 |
 
 ### 🔵 Capacitors
 
 | Ref | Value | Function | Pkg | Qty |
 |-----|-------|----------|-----|-----|
-| `C1–C8` | 100nF | Per-IC decoupling | 0402 | 8 |
-| `C9`, `C10` | 10µF | VUSB input bulk reservoir | 0805 | 2 |
-| `C11`, `C12` | 10µF | VBAT rail bulk reservoir | 0805 | 2 |
-| `C13`, `C14` | 22µF | VSYS output bulk reservoir | 0805 | 2 |
-| `C15`, `C16` | 4.7µF | TPS63020 inductor bypass | 0603 | 2 |
-| `C17` | 100nF | BQ25895 BTST bootstrap cap | 0402 | 1 |
-| `C18` | 1µF | MAX17048 VCELL filter cap | 0402 | 1 |
+| `C1–C12` | 100nF | Per-IC decoupling | 0402 | 12 |
+| `C13`, `C14` | 10µF | 3V3_CORE bulk reservoir | 0805 | 2 |
+| `C15`, `C16` | 4.7µF | 2V8_CAM + 1V8_CAM bulk | 0603 | 2 |
+| `C17`, `C18` | 2.2µF | 1V2_NPU bulk reservoir | 0603 | 2 |
+| `C19–C22` | 100nF | USB + MIPI lane bypass | 0402 | 4 |
+| `C23–C26` | 10pF | MIPI AC coupling caps (100Ω path) | 0402 | 4 |
+| `C27` | 1µF | HX6538 DVDD filter | 0402 | 1 |
 
 ### 🔌 Connectors, Inductors & Passives
 
 | Ref | Type | Description | Qty |
 |-----|------|-------------|-----|
-| `USB_C` | USB Type-C Female | Primary charge input (5V–9V PD / BC1.2) | 1 |
-| `USB_MICRO` | USB Micro-B Female | Secondary charge input (5V USB) | 1 |
-| `J1` | JST-PH 2.0mm 2-pin | Battery cell connector (Li-Ion / LiFePO₄) | 1 |
-| `J2` | 2.54mm 6-pin Header | System output: VSYS · GND · SDA · SCL · ALRT · PGOOD | 1 |
-| `J3` | 2.54mm 2-pin Header | Solar / auxiliary DC input (4.5V–6V) | 1 |
-| `L1` | 2.2µH, 3A | BQ25895 switching inductor | 4 × 4mm | 1 |
-| `L2` | 2.2µH, 2A | TPS63020 buck-boost inductor | 3 × 3mm | 1 |
-| `RT1` | 10kΩ NTC @ 25°C | Cell temperature thermistor | 0402 | 1 |
-| `FB1` | Ferrite Bead | HF EMI filter — VSYS output rail | 0402 | 1 |
+| `USB_C` | USB Type-C Female | Power + USB Full-Speed CDC + DFU bootloader | 1 |
+| `J2` | 2.54mm 8-pin Header | UART0/1 + SPI0 breakout | 1 |
+| `J3` | 2.54mm 8-pin Header | SPI1 + UART2 + GPIO breakout | 1 |
+| `J4` | 2.54mm 4-pin Header | I²C1 expansion sensor bus | 1 |
+| `J5` | 2.54mm 6-pin Header | 4× ADC channels + 3V3 + GND | 1 |
+| `J7` | 2.54mm 16-pin Header | GPIO expansion — test / logic analyser | 1 |
+| `J8` | 2.54mm 4-pin Header | PSRAM SPI expansion (8MB model buffer) | 1 |
+| `SW1` | SMD Tactile | RESET button — GD32V NRST | 1 |
+| `SW2` | SMD Tactile | BOOT0 button — DFU mode entry | 1 |
+| `FB1–FB4` | Ferrite Bead | Per-domain HF EMI filter (one per LDO output) | 4 |
 
 </details>
 
@@ -341,17 +358,23 @@ Board Coords:     X 94.3300 / Y 81.1200
 # KiCad 7.0 or later
 # https://www.kicad.org/download/
 
+# PlatformIO (recommended for RISC-V GD32V toolchain)
+pip install platformio
+
+# Or: GCC RISC-V bare-metal toolchain
+sudo apt install gcc-riscv64-unknown-elf
+# macOS: brew install riscv-gnu-toolchain
+
 # Git
-sudo apt install git        # Linux
-brew install git            # macOS
+sudo apt install git
 ```
 
 ### 2 — Clone & Open
 
 ```bash
-git clone https://github.com/MAHESH-THILAK-K/SMART-SENSOR-BATTERY-PACK.git
-cd "SMART-SENSOR-BATTERY-PACK"
-kicad SmartSensor_BatteryPack.kicad_pro
+git clone https://github.com/MAHESH-THILAK-K/TOKAYEDGE-LITE.git
+cd "TOKAYEDGE-LITE"
+kicad TokayEdge_Lite.kicad_pro
 ```
 
 ### 3 — Export Gerbers
@@ -369,122 +392,149 @@ KiCad PCB Editor:
 
 ```
 Layers:           4
-Thickness:        1.6 mm
-Copper Weight:    2 oz outer / 1 oz inner  (critical for high-current paths)
-Surface Finish:   ENIG  (best for fine-pitch BMS ICs)
+Thickness:        1.0 mm  (compact form factor — 1.0mm recommended)
+Copper Weight:    1 oz outer / 0.5 oz inner
+Surface Finish:   ENIG  (mandatory for fine-pitch QFN + LGA pads)
 Solder Mask:      Black
 Silkscreen:       White
-Min Hole Size:    0.3 mm
-Impedance Control: 90Ω differential (USB D+/D−)
+Min Hole Size:    0.2 mm
+Impedance Control: 90Ω USB · 100Ω MIPI CSI-2 · 50Ω SPI
 ```
 
 **PCBWay (Premium quality)**
 
 ```
 Layers:           4
-Thickness:        1.6 mm
-Copper Weight:    2 oz outer
+Thickness:        1.0 mm
 Surface Finish:   Immersion Gold (ENIG)
-Min Track/Space:  4/4 mil
-Solder Mask:      Black / Green
+Min Track/Space:  3.5/3.5 mil  (HX6538 QFN pitch requires tight clearance)
+Controlled Impedance: Yes (3 profiles)
+Solder Mask:      Black
 ```
 
-> ⚠️ **Copper weight note:** Use **2 oz outer copper** for this board. VBAT and VSYS traces carry up to 3A — 1 oz copper will overheat on sustained charge/discharge cycles.
+> ⚠️ **ENIG is mandatory** for this board. The HX6538 QFN-40 and ICM-42688-P LGA-14 have fine-pitch exposed pads that require flat, solderable surfaces. HASL finish will cause bridging on these parts.
 
-### 5 — Connect a Cell & Power Up
+### 5 — Flash the DFU Bootloader
 
-```
-1. Solder or attach a protected Li-Ion or LiFePO₄ cell to J1 (JST-PH 2.0mm)
-   → Pin 1 = VBAT+     Pin 2 = GND
-   → Single-cell only: 3.0V – 4.2V (Li-Ion) or 2.5V – 3.6V (LiFePO₄)
+```bash
+# Enter DFU mode: hold BOOT0 (SW2), press RESET (SW1), release BOOT0
+# TokayEdge Lite enumerates as a DFU device over USB-C
 
-2. Connect USB-C or Micro-B to USB input
-   → LED_CHG (green) lights  → charging in progress
-   → LED_FULL (blue) lights  → charge complete
+# Linux — check enumeration
+lsusb | grep -i GD32
 
-3. Connect J2 to your host platform:
-   → Pin 1 = VSYS (3.3V regulated)
-   → Pin 2 = GND
-   → Pin 3 = I2C_SDA
-   → Pin 4 = I2C_SCL
-   → Pin 5 = ALRT  (MAX17048 low-battery interrupt)
-   → Pin 6 = PGOOD (power-good flag)
+# Flash using dfu-util
+dfu-util -a 0 -s 0x08000000:leave -D firmware/tokayedge_bootloader.bin
+
+# Or via PlatformIO (auto-detects DFU)
+cd firmware/
+pio run --target upload
 ```
 
-### 6 — Read State-of-Charge (Python / smbus2)
+### 6 — Run a Person Detection Demo (TFLite Micro)
+
+```bash
+# Install dependencies
+pip install pyserial numpy
+
+# Open serial monitor after flashing demo firmware
+python firmware/examples/serial_monitor.py --port /dev/ttyACM0 --baud 115200
+```
+
+```c
+// firmware/examples/person_detection/main.c
+// GD32VF103 + HX6538 + OV2640 person detection — TFLite Micro INT8
+
+#include "hx6538_driver.h"
+#include "ov2640_driver.h"
+#include "person_detect_model.h"   // TFLite INT8 MobileNetV1
+
+#define IMG_WIDTH   96
+#define IMG_HEIGHT  96
+
+int main(void) {
+    board_init();
+    camera_init(IMG_WIDTH, IMG_HEIGHT, PIXFMT_GRAYSCALE);
+    hx6538_init();
+    hx6538_load_model(g_person_detect_model, g_person_detect_model_len);
+
+    uint8_t frame_buf[IMG_WIDTH * IMG_HEIGHT];
+    int8_t  scores[2];   // [0] = no person, [1] = person
+
+    while (1) {
+        camera_capture_frame(frame_buf);
+        hx6538_set_input(frame_buf, sizeof(frame_buf));
+        hx6538_run_inference();
+        hx6538_get_output(scores, sizeof(scores));
+
+        if (scores[1] > scores[0]) {
+            led_set(LED_GREEN);    // Person detected
+            uart_printf("PERSON  score=%d\r\n", scores[1]);
+        } else {
+            led_set(LED_BLUE);     // No person
+            uart_printf("EMPTY   score=%d\r\n", scores[0]);
+        }
+    }
+}
+```
+
+### 7 — Keyword Spotting Demo (PDM Microphone)
+
+```c
+// firmware/examples/keyword_spotting/main.c
+// GD32VF103 + HX6538 + MP34DT05 — "yes" / "no" keyword detection
+
+#include "hx6538_driver.h"
+#include "pdm_driver.h"
+#include "keyword_model.h"   // TFLite INT8 DS-CNN — 3.2KB flash
+
+#define SAMPLE_RATE  16000
+#define FRAME_MS     30
+#define FRAME_LEN    (SAMPLE_RATE * FRAME_MS / 1000)   // 480 samples
+
+int main(void) {
+    board_init();
+    pdm_init(SAMPLE_RATE, PDM_MONO_LEFT);
+    hx6538_init();
+    hx6538_load_model(g_keyword_model, g_keyword_model_len);
+
+    int16_t audio_buf[FRAME_LEN];
+    int8_t  scores[4];   // silence, unknown, yes, no
+
+    while (1) {
+        pdm_capture_frame(audio_buf, FRAME_LEN);
+        hx6538_set_input((uint8_t*)audio_buf, sizeof(audio_buf));
+        hx6538_run_inference();
+        hx6538_get_output(scores, sizeof(scores));
+
+        if      (scores[2] > 80) { uart_printf("YES\r\n"); led_set(LED_GREEN); }
+        else if (scores[3] > 80) { uart_printf("NO\r\n");  led_set(LED_RED);   }
+        else                     { led_set(LED_BLUE); }
+    }
+}
+```
+
+### 8 — Read IMU + Barometer (Python / smbus2 over USB Serial)
 
 ```python
-# pip install smbus2
-from smbus2 import SMBus
-import time
+# Requires: pip install pyserial smbus2
+# Connect J4 (I²C1) to a USB-I2C bridge, or read via GD32V UART serial log
 
-MAX17048_ADDR = 0x36
-REG_VCELL     = 0x02   # Cell voltage
-REG_SOC       = 0x04   # State of charge
-REG_CONFIG    = 0x0C
-REG_VALERT    = 0x14   # Alert threshold
+import serial, time
 
-def read_word(bus, reg):
-    data = bus.read_i2c_block_data(MAX17048_ADDR, reg, 2)
-    return (data[0] << 8) | data[1]
+port = serial.Serial('/dev/ttyACM0', 115200, timeout=1)
+time.sleep(2)
 
-with SMBus(1) as bus:
-    # Set ALRT threshold at 15% SOC
-    bus.write_i2c_block_data(MAX17048_ADDR, REG_VALERT, [0x00, 0x0F])
+port.write(b'AT+SENSOR_READ=ALL\r\n')   # Trigger onboard sensor batch read
 
-    while True:
-        vcell_raw = read_word(bus, REG_VCELL)
-        soc_raw   = read_word(bus, REG_SOC)
-
-        voltage = vcell_raw * 78.125e-6     # 78.125µV per LSB
-        soc     = soc_raw / 256.0           # 1/256 % per LSB
-
-        print(f"Cell Voltage : {voltage:.3f} V")
-        print(f"State of Charge: {soc:.1f} %")
-        print("─" * 32)
-        time.sleep(5)
-```
-
-### 7 — Configure BQ25895 Charge Current (Python)
-
-```python
-# pip install smbus2
-from smbus2 import SMBus
-
-BQ25895_ADDR = 0x6A
-REG_ICHG     = 0x04   # Charge current register
-REG_IPRECHG  = 0x05   # Pre-charge current register
-REG_STATUS   = 0x0B   # System status register
-
-ICHG_1A = 0x10        # 1024 mA charge current (safe for 1500–2000mAh cells)
-ICHG_2A = 0x20        # 2048 mA charge current (fast charge for 3000mAh+ cells)
-
-with SMBus(1) as bus:
-    # Set charge current to 1A
-    bus.write_byte_data(BQ25895_ADDR, REG_ICHG, ICHG_1A)
-    print("Charge current set to 1A")
-
-    # Read system status
-    status = bus.read_byte_data(BQ25895_ADDR, REG_STATUS)
-    chrg_stat = (status >> 3) & 0x03
-    states = {0: "Not charging", 1: "Pre-charge", 2: "Fast charging", 3: "Charge complete"}
-    print(f"Charge status: {states.get(chrg_stat, 'Unknown')}")
-```
-
-### 8 — Solar Input Setup
-
-```
-J3 header accepts 4.5V – 6V from a small solar panel (100mA – 500mA):
-  → Pin 1 = VSOLAR+
-  → Pin 2 = GND
-
-Recommended panels:
-  → 5V 500mA (2.5W) — outdoor deployment, cloudy-day capable
-  → 6V 333mA (2W)   — input clamped to 6V by VINDPM on BQ25895
-  → Do NOT exceed 6V on J3 input
-
-BQ25895 MPPT-lite (VINDPM tracking) automatically adjusts charge current
-to prevent solar panel voltage collapse under heavy load.
+while True:
+    line = port.readline().decode(errors='replace').strip()
+    if line:
+        print(line)
+        # Expected output:
+        # IMU  ax=+0.012g ay=-0.003g az=+1.001g  gx=+0.21dps gy=-0.08dps gz=+0.01dps
+        # BARO p=1013.25hPa  T=24.6C
+        # LIGHT lux=312.4
 ```
 
 <br/>
@@ -494,44 +544,62 @@ to prevent solar panel voltage collapse under heavy load.
 ## 📁 File Tree
 
 ```
-Smart Sensor Battery Pack/
+TokayEdge Lite Platform/
 │
-├── 📄 SmartSensor_BatteryPack.kicad_pro    ← KiCad project entry point
-├── 📄 SmartSensor_BatteryPack.kicad_sch    ← Full schematic
-├── 📄 SmartSensor_BatteryPack.kicad_pcb    ← 4-layer PCB layout
+├── 📄 TokayEdge_Lite.kicad_pro              ← KiCad project entry point
+├── 📄 TokayEdge_Lite.kicad_sch              ← Full schematic
+├── 📄 TokayEdge_Lite.kicad_pcb              ← 4-layer PCB layout
 │
-├── 📁 gerbers/                              ← Fab-ready outputs
-│   ├── BatteryPack-F_Cu.gbr                   Front copper (signal + power)
-│   ├── BatteryPack-In1_Cu.gbr                 GND reference plane
-│   ├── BatteryPack-In2_Cu.gbr                 VBAT / VSYS split power plane
-│   ├── BatteryPack-B_Cu.gbr                   Back copper + thermal vias
-│   ├── BatteryPack-F_Mask.gbr                 Front solder mask
-│   ├── BatteryPack-B_Mask.gbr                 Back solder mask
-│   ├── BatteryPack-F_Silkscreen.gbr           Front silkscreen
-│   ├── BatteryPack-Edge_Cuts.gbr              Board outline
-│   └── BatteryPack.drl                        Drill file
+├── 📁 gerbers/                               ← Fab-ready outputs
+│   ├── TokayEdge-F_Cu.gbr                       Front copper (signal + diff pairs)
+│   ├── TokayEdge-In1_Cu.gbr                     GND reference plane
+│   ├── TokayEdge-In2_Cu.gbr                     4-domain power plane
+│   ├── TokayEdge-B_Cu.gbr                       Back copper + thermal vias
+│   ├── TokayEdge-F_Mask.gbr                     Front solder mask
+│   ├── TokayEdge-B_Mask.gbr                     Back solder mask
+│   ├── TokayEdge-F_Silkscreen.gbr               Front silkscreen
+│   ├── TokayEdge-Edge_Cuts.gbr                  Board outline
+│   └── TokayEdge.drl                            Drill file
 │
 ├── 📁 bom/
-│   └── SmartSensor_BatteryPack_BOM.csv
+│   └── TokayEdge_Lite_BOM.csv
 │
 ├── 📁 assembly/
-│   └── SmartSensor_BatteryPack_CPL.csv     ← Pick & place list
+│   └── TokayEdge_Lite_CPL.csv               ← Pick & place list
 │
 ├── 📁 firmware/
-│   ├── README_firmware.md                   ← Bring-up + calibration guide
+│   ├── README_firmware.md                    ← DFU flash + toolchain setup
+│   ├── bootloader/
+│   │   └── tokayedge_bootloader.bin          ← Pre-built DFU bootloader
 │   └── examples/
-│       ├── soc_monitor.py                   ← MAX17048 SOC + voltage reader
-│       ├── charger_config.py                ← BQ25895 I²C configuration
-│       ├── battery_logger.py                ← CSV data logger (SOC, V, temp)
-│       ├── low_battery_alert.py             ← GPIO ALRT interrupt handler
-│       └── arduino_fuel_gauge.ino           ← Arduino I²C sketch
+│       ├── person_detection/                 ← OV2640 + HX6538 MobileNetV1
+│       │   ├── main.c
+│       │   ├── person_detect_model.h         ← INT8 quantised model
+│       │   └── platformio.ini
+│       ├── keyword_spotting/                 ← PDM mic + DS-CNN keyword model
+│       │   ├── main.c
+│       │   ├── keyword_model.h
+│       │   └── platformio.ini
+│       ├── anomaly_detection/                ← IMU + autoencoder anomaly model
+│       │   ├── main.c
+│       │   └── anomaly_model.h
+│       ├── sensor_fusion_logger/             ← IMU + BMP390 + VEML7700 CSV logger
+│       │   └── main.c
+│       └── serial_monitor.py                 ← Host-side inference stream viewer
+│
+├── 📁 models/
+│   ├── README_models.md                      ← TFLite Micro model conversion guide
+│   ├── person_detect_int8.tflite             ← MobileNetV1 96×96 quantised
+│   ├── keyword_ds_cnn_int8.tflite            ← DS-CNN yes/no/up/down/left/right
+│   └── anomaly_ae_int8.tflite                ← IMU autoencoder for vibration anomaly
 │
 ├── 📁 docs/
-│   ├── SmartSensor_Schematic.pdf
-│   ├── power_path_guide.md                 ← VBAT / VSYS topology notes
-│   ├── cell_selection_guide.md             ← Li-Ion vs LiFePO₄ tradeoffs
-│   ├── solar_input_guide.md                ← VINDPM + MPPT-lite setup
-│   ├── thermal_design_guide.md             ← Via array + copper pour notes
+│   ├── TokayEdge_Schematic.pdf
+│   ├── mipi_csi2_routing_guide.md            ← 100Ω diff pair + AC coupling notes
+│   ├── dvp_camera_guide.md                   ← OV2640 / OV7670 wiring + init
+│   ├── hx6538_integration_guide.md           ← NPU SPI protocol + model loading
+│   ├── power_domain_guide.md                 ← 4-rail sequencing + camera gate
+│   ├── tflite_micro_guide.md                 ← INT8 quantisation + model conversion
 │   └── images/
 │       ├── pcb_front.png
 │       ├── pcb_back.png
@@ -552,60 +620,60 @@ Phase 1 — Hardware Design                    [██████████�
   ├── 4-layer PCB layout & routing
   └── DRC passed — 0 errors, 0 unrouted
 
-Phase 2 — Fabrication & Assembly             [███░░░░░░░░░░░░░░░░░]  15% 🔄
+Phase 2 — Fabrication & Assembly             [██░░░░░░░░░░░░░░░░░░]  10% 🔄
   ├── Gerber generation & DFM review
-  ├── PCB order (2 oz outer copper — mandatory)
-  └── SMD reflow · BQ25895 EP solder · JST / USB connectors
+  ├── PCB order (ENIG finish — mandatory for QFN / LGA parts)
+  └── SMD reflow · HX6538 QFN EP solder · FPC connectors · buttons
 
-Phase 3 — Bring-Up & Validation              [░░░░░░░░░░░░░░░░░░░░]   0% 📋
-  ├── Power rail verification (VSYS 3.3V + 5V selectable)
-  ├── BQ25895 USB enumeration + charge cycle test
-  ├── DW01A protection trigger test (OVP, UVP, OCP)
-  ├── MAX17048 SOC accuracy (charge + discharge curve)
-  ├── NTC thermal derating verification (hairdryer test)
-  ├── TPS63020 output ripple + load transient measurement
-  └── Solar VINDPM tracking test (5V panel + bench load)
+Phase 3 — Firmware Bring-Up                  [░░░░░░░░░░░░░░░░░░░░]   0% 📋
+  ├── GD32VF103 DFU bootloader flash + USB enumeration
+  ├── LDO rail sequencing verification (1.2V → 1.8V → 2.8V → 3.3V)
+  ├── W25Q64 SPI flash read / write / erase test
+  ├── ICM-42688-P IMU SPI comms + self-test
+  ├── BMP390 + VEML7700 I²C comms verification
+  ├── MP34DT05 PDM capture — raw audio waveform check
+  └── HX6538 SPI handshake + model upload test
 
-Phase 4 — Field Deployment Validation        [░░░░░░░░░░░░░░░░░░░░]   0% 📋
-  ├── 72-hour idle current measurement (target < 8µA)
-  ├── Temperature cycle test (−20°C to +60°C)
-  ├── Full charge / discharge cycle count (500 cycles)
-  ├── SOC accuracy vs coulomb counter cross-validation
-  └── Real-world runtime: ESP32 + LoRa node on 2000mAh cell
+Phase 4 — Inference Pipeline Validation      [░░░░░░░░░░░░░░░░░░░░]   0% 📋
+  ├── OV2640 DVP stream capture (96×96 grayscale)
+  ├── Person detection demo — accuracy vs reference dataset
+  ├── Keyword spotting demo — false positive / false negative rates
+  ├── Anomaly detection demo — vibration anomaly recall on IMU data
+  ├── Inference latency measurement (target < 50ms per frame)
+  └── Power measurement — active inference vs idle (target < 10mW idle)
 
-Phase 5 — Platform Compatibility Matrix      [░░░░░░░░░░░░░░░░░░░░]   0% 📋
-  ├── Raspberry Pi Zero 2W (I²C-1, GPIO for ALRT)
-  ├── ESP32-S3 DevKit (I²C via GPIO matrix, ADC for NTC)
-  ├── STM32F4 Nucleo (I²C1 + EXTI for ALRT)
-  ├── Arduino Mega 2560 (Wire library + INT pin)
-  └── Raspberry Pi Pico (I²C0 + GPIO interrupt)
+Phase 5 — Platform & Model Compatibility     [░░░░░░░░░░░░░░░░░░░░]   0% 📋
+  ├── TFLite Micro model conversion pipeline (float32 → INT8)
+  ├── Edge Impulse model export compatibility
+  ├── Arduino IDE board package (GD32VF103 core)
+  ├── PlatformIO GD32V framework support
+  └── MicroPython port (GD32VF103 — community driver)
 
-Phase 6 — Rev B: Smart Sensor Battery Pack Pro  [░░░░░░░░░░░░░░░░░░░░] 0% 🔭
-  ├── 2S Li-Ion support (8.4V pack with cell balancer IC)
-  ├── Wireless SOC reporting (BLE beacon via nRF52832)
-  ├── E-ink fuel gauge display header (128×32 SSD1306)
-  ├── USB-C PD 3.0 negotiation (up to 12V / 3A input)
-  └── Qi wireless charging receiver coil header
+Phase 6 — Rev B: TokayEdge Pro               [░░░░░░░░░░░░░░░░░░░░]   0% 🔭
+  ├── Upgrade to GD32VF303 (RV32IMAC @ 120 MHz, 256KB flash)
+  ├── Second neural accelerator channel (parallel inference)
+  ├── LoRa SX1276 module (direct LoRaWAN uplink of inference results)
+  ├── MIPI DSI header (128×64 OLED inference result display)
+  └── Smart Sensor Battery Pack integration header (direct dock)
 ```
 
 <br/>
 
 ---
 
-## ⚡ Runtime Estimates
+## 📊 Inference Performance Targets
 
-> *Calculated estimates — field validation pending bringup:*
+> *Estimated targets — silicon validation pending bringup:*
 
-| Load Profile | Cell Capacity | Est. Runtime | Chemistry |
-|-------------|--------------|-------------|-----------|
-| ESP32 deep sleep (10µA avg) | 2000 mAh | ~8300 hours | Li-Ion |
-| ESP32 + LoRa TX 1×/min | 2000 mAh | ~120 hours | Li-Ion |
-| Raspberry Pi Zero 2W idle | 2000 mAh | ~5 hours | Li-Ion |
-| STM32 sensor node (5mA avg) | 3000 mAh | ~600 hours | LiFePO₄ |
-| Arduino Mega active (50mA) | 2000 mAh | ~40 hours | Li-Ion |
-| USB webcam + SBC streaming | 2000 mAh | ~2.5 hours | Li-Ion |
+| Model | Task | Input | Target Latency | Flash Usage | Status |
+|-------|------|-------|---------------|-------------|--------|
+| MobileNetV1 (INT8) | Person detection | 96×96 grayscale | < 45 ms | 298 KB | 📋 Pending |
+| DS-CNN (INT8) | Keyword spotting | 16kHz 30ms MFCC | < 20 ms | 3.2 KB | 📋 Pending |
+| Autoencoder (INT8) | Vibration anomaly | IMU 500Hz 128pt FFT | < 8 ms | 18 KB | 📋 Pending |
+| MobileNetV2 (INT8) | Image classification | 96×96 RGB | < 90 ms | 820 KB | 📋 Pending |
+| Tiny YOLO (INT8) | Object detection | 96×96 grayscale | < 200 ms | 1.1 MB (PSRAM) | 📋 Pending |
 
-*Runtime = (capacity × 0.85 Wh efficiency) ÷ average load current.*
+*Latency measured from inference-start to NPU_INT assertion on HX6538.*
 
 <br/>
 
@@ -615,43 +683,17 @@ Phase 6 — Rev B: Smart Sensor Battery Pack Pro  [░░░░░░░░░�
 
 > *Community-driven compatibility tracker — updated post bringup:*
 
-| Platform | I²C Bus | ALRT GPIO | PGOOD GPIO | SOC Readable | Status |
-|----------|---------|-----------|------------|-------------|--------|
-| Raspberry Pi 4 / 5 | I²C-1 (GPIO 2/3) | GPIO 17 | GPIO 27 | ✓ | 🔲 Pending |
-| Raspberry Pi Zero 2W | I²C-1 | GPIO 17 | GPIO 27 | ✓ | 🔲 Pending |
-| ESP32-S3 DevKit | GPIO 21/22 | GPIO 4 | GPIO 5 | ✓ | 🔲 Pending |
-| Arduino Mega 2560 | SDA/SCL (pins 20/21) | Pin 2 (INT0) | Pin 3 | ✓ | 🔲 Pending |
-| STM32F4 Nucleo | I²C1 (PB6/PB7) | PA0 (EXTI0) | PA1 | ✓ | 🔲 Pending |
-| Raspberry Pi Pico | I²C0 (GP4/GP5) | GP16 | GP17 | ✓ | 🔲 Pending |
-| ESP8266 NodeMCU | GPIO 4/5 | GPIO 14 | GPIO 12 | ✓ | 🔲 Pending |
+| Framework | Toolchain | Status |
+|-----------|-----------|--------|
+| PlatformIO (GD32V framework) | RISC-V GCC 12 | 🔲 Pending |
+| Arduino IDE (GD32VF103 core) | Arduino RISC-V | 🔲 Pending |
+| Bare-metal CMake | riscv64-unknown-elf-gcc | 🔲 Pending |
+| TFLite Micro (C++ runtime) | RISC-V GCC | 🔲 Pending |
+| Edge Impulse SDK | EI RISC-V export | 🔲 Pending |
+| MicroPython (GD32VF103 port) | micropython-risc-v | 🔲 Pending |
+| Zephyr RTOS | Zephyr GD32V target | 🔲 Pending |
 
-*Tested on your platform? Open a PR and mark it ✅!*
-
-<br/>
-
----
-
-## 🔒 Safety & Handling
-
-```
-⚠️  BATTERY SAFETY — READ BEFORE POWERING UP
-
-  DO:
-    ✔ Use a protected single-cell Li-Ion or LiFePO₄ only
-    ✔ Verify cell polarity on J1 before connecting (+ = Pin 1)
-    ✔ Use 2 oz copper PCBs — 1 oz will overheat at 3A charge
-    ✔ Keep board in ventilated enclosure during charge cycles
-    ✔ Monitor first charge cycle unattended with a fire-safe bag
-
-  DO NOT:
-    ✗ Connect cells above 4.2V (Li-Ion) or 3.6V (LiFePO₄) — board
-      protection engages but do not rely on it as primary safeguard
-    ✗ Short J1 terminals — DW01A latches off but internal heating occurs
-    ✗ Exceed 6V on J3 solar input — VINDPM clamp is not a TVS
-    ✗ Use damaged, swollen, or unprotected bare cells
-    ✗ Operate outside −20°C to +60°C — NTC derating active but thermal
-      runaway is possible above 60°C ambient with high charge current
-```
+*Got a working toolchain setup? Open a PR with your `platformio.ini` or `CMakeLists.txt`!*
 
 <br/>
 
@@ -659,12 +701,12 @@ Phase 6 — Rev B: Smart Sensor Battery Pack Pro  [░░░░░░░░░�
 
 ## 🤝 Contributing
 
-All contributions are welcome — PCB fixes, firmware drivers, bring-up reports, runtime benchmarks, or platform integration guides.
+All contributions are welcome — PCB fixes, firmware drivers, trained models, inference benchmarks, or toolchain guides.
 
 ```bash
-git clone https://github.com/MAHESH-THILAK-K/SMART-SENSOR-BATTERY-PACK.git
+git clone https://github.com/MAHESH-THILAK-K/TOKAYEDGE-LITE.git
 git checkout -b feat/your-improvement
-git commit -m "feat: add ESP32 deep sleep SOC logging example"
+git commit -m "feat: add Edge Impulse keyword model export guide"
 git push origin feat/your-improvement
 # → Open Pull Request on GitHub
 ```
@@ -673,21 +715,21 @@ git push origin feat/your-improvement
 
 | Prefix | Use For |
 |--------|---------|
-| `feat:` | New platform support / feature |
+| `feat:` | New model support / inference feature / platform port |
 | `fix:` | PCB bug, net error, footprint fix |
-| `docs:` | BMS guides, solar notes, cell selection |
-| `firmware:` | I²C scripts, alert handlers, data loggers |
-| `test:` | Runtime reports, cycle life measurements |
+| `docs:` | MIPI guides, model conversion, camera init |
+| `firmware:` | Driver code, inference demos, RTOS ports |
+| `model:` | INT8 quantised models, accuracy benchmarks |
+| `test:` | Latency reports, power measurements, accuracy plots |
 | `refactor:` | Routing cleanup, schematic tidy |
-| `safety:` | Protection circuit tests, thermal reports |
 
 ### We Welcome
 
 - 🐛 PCB layout fixes or DRC improvements
-- 📸 Photos of fabricated boards & real-world deployments
-- 🔋 Runtime measurements on real sensor platforms
-- 📉 Charge / discharge curves and SOC accuracy plots
-- 🌞 Solar harvesting reports (irradiance vs charge rate)
+- 📸 Photos of fabricated boards & live inference demos
+- 🧠 INT8 quantised TFLite Micro models for new tasks
+- 📉 Inference latency + power measurements
+- 🎥 Camera module compatibility reports (OV2640, OV7670, GC0308)
 - 💡 Feature requests for Rev B
 
 <br/>
@@ -701,13 +743,14 @@ MIT License
 Copyright (c) 2025 Mahesh Thilak K
 
 Permission is hereby granted, free of charge, to any person obtaining
-a copy of this hardware design and associated documentation files, to
+a copy of this hardware design, firmware, and trained model files, to
 use, copy, modify, merge, publish, distribute, sublicense, and/or sell
 copies — subject to the above copyright notice appearing in all copies.
 
 THE HARDWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
-THE AUTHOR ACCEPTS NO LIABILITY FOR DAMAGE TO PERSONS, PROPERTY,
-OR EQUIPMENT ARISING FROM IMPROPER USE OF LITHIUM CELL TECHNOLOGY.
+Note: Pre-trained TFLite Micro model files in /models/ are provided
+for evaluation use. Verify licensing of base architectures
+(MobileNet, DS-CNN) before commercial redistribution.
 ```
 
 Full text: [LICENSE](LICENSE)
@@ -721,15 +764,15 @@ Full text: [LICENSE](LICENSE)
 ```
 ╔═══════════════════════════════════════════════════════════════════════╗
 ║                                                                       ║
-║  ███████╗███╗   ███╗ █████╗ ██████╗ ████████╗    ███████╗███████╗   ║
-║  ██╔════╝████╗ ████║██╔══██╗██╔══██╗╚══██╔══╝    ██╔════╝██╔════╝   ║
-║  ███████╗██╔████╔██║███████║██████╔╝   ██║       ███████╗█████╗     ║
-║  ╚════██║██║╚██╔╝██║██╔══██║██╔══██╗   ██║       ╚════██║██╔══╝     ║
-║  ███████║██║ ╚═╝ ██║██║  ██║██║  ██║   ██║       ███████║███████╗   ║
-║  ╚══════╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝       ╚══════╝╚══════╝  ║
+║  ████████╗ ██████╗ ██╗  ██╗ █████╗ ██╗   ██╗███████╗██████╗  ██████╗║
+║  ╚══██╔══╝██╔═══██╗██║ ██╔╝██╔══██╗╚██╗ ██╔╝██╔════╝██╔══██╗██╔════╝║
+║     ██║   ██║   ██║█████╔╝ ███████║ ╚████╔╝ █████╗  ██║  ██║██║  ███╗║
+║     ██║   ██║   ██║██╔═██╗ ██╔══██║  ╚██╔╝  ██╔══╝  ██║  ██║██║   ██║║
+║     ██║   ╚██████╔╝██║  ██╗██║  ██║   ██║   ███████╗██████╔╝╚██████╔╝║
+║     ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚══════╝╚═════╝  ╚═════╝ ║
 ║                                                                       ║
-║   B A T T E R Y  P A C K  ·  Designed with KiCad  ·  v1.0           ║
-║      Measure more. Last longer. Never lose a reading to a dead cell. ║
+║   L I T E  P L A T F O R M  ·  Designed with KiCad  ·  v1.0         ║
+║      Infer locally. React instantly. Ship intelligence to the edge.  ║
 ║               © 2025 Mahesh Thilak K — MIT                           ║
 ║                                                                       ║
 ╚═══════════════════════════════════════════════════════════════════════╝
@@ -737,11 +780,12 @@ Full text: [LICENSE](LICENSE)
 
 [![GitHub](https://img.shields.io/badge/GitHub-MAHESH--THILAK--K-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MAHESH-THILAK-K)
 [![KiCad](https://img.shields.io/badge/Designed_with-KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)](https://www.kicad.org/)
+[![RISC-V](https://img.shields.io/badge/Powered_by-RISC--V-1C4D8C?style=for-the-badge)](https://riscv.org/)
 
 <br/>
 
-**Power your sensors intelligently. Give Smart Sensor Battery Pack a ⭐**
+**The edge sees what the cloud never reaches. Give TokayEdge Lite a ⭐**
 
-[![Star](https://img.shields.io/badge/%E2%AD%90_Star_This_Repo-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/MAHESH-THILAK-K/SMART-SENSOR-BATTERY-PACK)
+[![Star](https://img.shields.io/badge/%E2%AD%90_Star_This_Repo-FFD700?style=for-the-badge&logo=github&logoColor=black)](https://github.com/MAHESH-THILAK-K/TOKAYEDGE-LITE)
 
 </div>
