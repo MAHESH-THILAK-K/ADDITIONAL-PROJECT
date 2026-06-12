@@ -1,0 +1,6 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"R1";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";1;"10k";;;
+2;"SW1";"SW_PUSH_6mm_H5mm";1;"SW_Push";;;
+3;"U1";"DIP-40_W15.24mm_Socket";1;"65C02";;;
+4;"U2, U3";"DIP-16_W7.62mm";2;"74LS157";;;
+5;"U4";"pi_pico";1;"pi_pico";;;
