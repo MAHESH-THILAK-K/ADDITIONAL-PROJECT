@@ -1,0 +1,10 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"BT1";"AliExpress_CR2032";1;"CR2032";;;
+2;"C1, C5";"C_0603_HandSoldering";2;"100nF";;;
+3;"C2, C3";"C_0805";2;"8pF";;;
+4;"C4";"CP_Radial_D4.0mm_P2.00mm";1;"33uF";;;
+5;"C6";"C_1210_HandSoldering";1;"33uF";;;
+6;"J1";"Pin_Header_Straight_2x08_6wide_Pitch2.54mm";1;"Conn_02x08_Counter_Clockwise";;;
+7;"U1";"TSSOP-20_4.4x6.5mm_Pitch0.65mm";1;"STM8L051F3P";;;
+8;"U2";"nRF24L01_Breakout";1;"NRF24L01_Breakout";;;
+9;"Y1";"Crystal_C38-LF_d3.0mm_l8.0mm_Horizontal";1;"Q32KHz";;;

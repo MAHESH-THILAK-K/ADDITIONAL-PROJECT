@@ -1,0 +1,12 @@
+Ref,Val,Package,PosX,PosY,Rot,Side
+"C1","100nF","C_0603_HandSoldering",139.940000,-98.380000,-90.000000,bottom
+"C2","8pF","C_0805",143.225000,-80.425000,180.000000,bottom
+"C3","8pF","C_0805",143.225000,-75.175000,180.000000,bottom
+"C5","100nF","C_0603_HandSoldering",142.000000,-86.800000,90.000000,bottom
+"C6","33uF","C_1210_HandSoldering",145.900000,-88.150000,90.000000,bottom
+"BT1","CR2032","AliExpress_CR2032",147.193000,-93.472000,90.000000,top
+"C4","33uF","CP_Radial_D4.0mm_P2.00mm",152.800000,-97.500000,-45.000000,top
+"J1","Conn_02x08_Counter_Clockwise","Pin_Header_Straight_2x08_6wide_Pitch2.54mm",139.700000,-76.200000,0.000000,top
+"U1","STM8L051F3P","TSSOP-20_4.4x6.5mm_Pitch0.65mm",147.950000,-85.344000,0.000000,top
+"U2","NRF24L01_Breakout","nRF24L01_Breakout",141.732000,-99.695000,90.000000,top
+"Y1","Q32KHz","Crystal_C38-LF_d3.0mm_l8.0mm_Horizontal",142.550000,-78.740000,90.000000,top
