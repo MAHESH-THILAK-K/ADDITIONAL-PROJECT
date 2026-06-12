@@ -45,7 +45,9 @@
 
 | PCB Layout | 3D Board View |
 |:---:|:---:|
-| *(PCB Layout Image)* | *(3D Render Image)* |
+| <img width="1904" height="928" alt="CapProbe 2" src="https://github.com/user-attachments/assets/ad429ec8-8120-4576-9df7-119936f9d31f" />
+ |<img width="1560" height="1079" alt="Screenshot 2026-06-11 220344" src="https://github.com/user-attachments/assets/f5b12eec-fcd6-4b8b-98e6-10e967f59f98" />
+ |
 
 > *Designed using KiCad — CapProbe Capacitive Sensing & Measurement Hardware Platform*
 
