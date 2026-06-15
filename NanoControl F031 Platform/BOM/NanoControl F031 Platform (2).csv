@@ -1,0 +1,18 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C1";"CP_Tantalum_Case-A_EIA-3216-18_Hand";1;"10uF";;;
+2;"C2, C3";"C_0805_HandSoldering";2;"4.7uF";;;
+3;"C4, C9, C10";"C_0805_HandSoldering";3;"100nF";;;
+4;"C5, C8";"C_0805_HandSoldering";2;"20pF";;;
+5;"C6";"C_0805_HandSoldering";1;"10nF";;;
+6;"C7";"C_0805_HandSoldering";1;"1uF";;;
+7;"D1";"D_SOD-123";1;"Schottky";;;
+8;"D2";"LED_0805_HandSoldering";1;"Power_On?";;;
+9;"J1";"Pin_Header_Straight_1x12_Pitch2.54mm";1;"GPIO1";;;
+10;"J2";"Pin_Header_Angled_1x04_Pitch2.54mm";1;"Prog";;;
+11;"J3";"Pin_Header_Straight_1x12_Pitch2.54mm";1;"GPIO2";;;
+12;"R1";"R_0805_HandSoldering";1;"RLED";;;
+13;"R2";"R_0805_HandSoldering";1;"FBead";;;
+14;"SW1";"SW_PUSH_6mm";1;"Reset";;;
+15;"U1";"SOT-23_Handsoldering";1;"AP2210";;;
+16;"U2";"LQFP-32_7x7mm_Pitch0.8mm";1;"STM32F031K6";;;
+17;"Y1";"Crystal_Round_d3.0mm_Vertical";1;"8MHz";;;
