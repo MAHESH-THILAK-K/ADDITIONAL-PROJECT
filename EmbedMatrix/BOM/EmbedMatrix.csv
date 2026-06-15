@@ -1,0 +1,17 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C1, C4, C8";"C_0805_2012Metric_Pad1.15x1.40mm_HandSolder";3;"1uF";;;
+2;"C2, C5, C7, C13";"C_0805_2012Metric_Pad1.15x1.40mm_HandSolder";4;"4.7uF";;;
+3;"C3, C6, C12, C14";"C_0805_2012Metric_Pad1.15x1.40mm_HandSolder";4;"0.1uF";;;
+4;"C9, C10";"C_0805_2012Metric_Pad1.15x1.40mm_HandSolder";2;"18 pF";;;
+5;"C15, C16, C17, C18";"C_0805_2012Metric_Pad1.15x1.40mm_HandSolder";4;"0.1 uF";;;
+6;"D1, D2, D3, D4";"LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder";4;"LED";;;
+7;"J1";"PinHeader_1x06_P2.54mm_Vertical";1;"Conn_01x06";;;
+8;"J2";"USB_Micro-B_Amphenol_10103594-0001LF_Horizontal";1;"USB_B_Micro";;;
+9;"R1";"R_0805_2012Metric_Pad1.15x1.40mm_HandSolder";1;"10k";;;
+10;"R2, R3, R4, R5";"R_0805_2012Metric_Pad1.15x1.40mm_HandSolder";4;"10";;;
+11;"R6, R7";"R_0805_2012Metric_Pad1.15x1.40mm_HandSolder";2;"4.7k";;;
+12;"R8, R9, R10, R11, R12, R13, R14, R15";"R_0805_2012Metric_Pad1.15x1.40mm_HandSolder";8;"47k";;;
+13;"U1, U3, U4, U5";"VL6180X";4;"VL6180X";;;
+14;"U2";"SOT-23-6_Handsoldering";1;"AP7332-2833";;;
+15;"U6";"LQFP-48_7x7mm_P0.5mm";1;"STM32F070CBTx";;;
+16;"Y1";"Crystal_HC49-U_Vertical";1;"8 MHz";;;
